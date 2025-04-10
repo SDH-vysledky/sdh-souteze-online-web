@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocumentClass xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <Records>
+    <DataRecordClass>
+      <StartNr>1</StartNr>
+      <Category>dorky</Category>
+      <Try1>18850</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Pohořelice</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>18850</int>
+        <int>17720</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2024-11-16T10:37:01.616751+01:00</CreationDate>
+      <Order>1</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>4</StartNr>
+      <Category>dorky</Category>
+      <Try1>27690</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Březolupy</Name>
+      <Team>UH</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>27690</int>
+        <int>21530</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2024-11-16T12:19:46.9468505+01:00</CreationDate>
+      <Order>2</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>5</StartNr>
+      <Category>dorky</Category>
+      <Try1>29780</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Vizovice</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>29780</int>
+        <int>28550</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2024-11-16T12:57:26.0535853+01:00</CreationDate>
+      <Order>3</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>2</StartNr>
+      <Category>dorky</Category>
+      <Try1>45560</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Nová Dědina</Name>
+      <Team>KM</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>44510</int>
+        <int>45560</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2024-11-16T11:37:04.4421831+01:00</CreationDate>
+      <Order>4</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>3</StartNr>
+      <Category>dorky</Category>
+      <Try1>-102540</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Šarovy</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>98180</int>
+        <int>102540</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2024-11-16T11:58:10.3767022+01:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+  </Records>
+  <SortByField>SortByResultTime</SortByField>
+</DocumentClass>
