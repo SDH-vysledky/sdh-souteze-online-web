@@ -23,14 +23,14 @@
     <DataRecordClass>
       <StartNr>2</StartNr>
       <Category>mladší</Category>
-      <Try1>11560</Try1>
+      <Try1>8050</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>bbbbb</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>8520</int>
+        <int>8050</int>
         <int>5020</int>
         <int>0</int>
         <int>0</int>
