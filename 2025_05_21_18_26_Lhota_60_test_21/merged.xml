@@ -101,7 +101,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:29:37.6235109+02:00</CreationDate>
-      <Order>14</Order>
+      <Order>15</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -359,22 +359,22 @@
     <DataRecordClass>
       <StartNr>10-1-1_č-2</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>9710</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>ONDROVÁ Annabella</Name>
       <Team>Pohořelice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>9710</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-21T18:52:55.1038598+02:00</CreationDate>
+      <Order>14</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
