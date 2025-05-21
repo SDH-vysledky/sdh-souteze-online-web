@@ -191,22 +191,22 @@
     <DataRecordClass>
       <StartNr>10</StartNr>
       <Category>starší</Category>
-      <Try1>0</Try1>
+      <Try1>10020</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>jjjjjjjj</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>10020</int>
+        <int>8430</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-21T20:11:03.7083282+02:00</CreationDate>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
