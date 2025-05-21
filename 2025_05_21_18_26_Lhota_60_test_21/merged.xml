@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:28:29.9132766+02:00</CreationDate>
-      <Order>8</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -59,7 +59,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:29:04.8412214+02:00</CreationDate>
-      <Order>13</Order>
+      <Order>15</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -80,7 +80,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:29:05.3731255+02:00</CreationDate>
-      <Order>14</Order>
+      <Order>16</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -101,7 +101,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:29:37.6235109+02:00</CreationDate>
-      <Order>16</Order>
+      <Order>18</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -164,7 +164,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:31:12.228878+02:00</CreationDate>
-      <Order>9</Order>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -269,7 +269,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:51:18.7217234+02:00</CreationDate>
-      <Order>7</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -290,7 +290,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:51:19.5087492+02:00</CreationDate>
-      <Order>12</Order>
+      <Order>14</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -311,7 +311,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:51:33.9696372+02:00</CreationDate>
-      <Order>10</Order>
+      <Order>12</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -374,7 +374,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:52:55.1038598+02:00</CreationDate>
-      <Order>15</Order>
+      <Order>17</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -395,34 +395,34 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:53:36.601372+02:00</CreationDate>
-      <Order>11</Order>
+      <Order>13</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>11-1-3_č-2</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>3490</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>MARTINCOVÁ Nela</Name>
       <Team>Jasenná</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>3490</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-21T18:54:19.1598175+02:00</CreationDate>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>11-2-4_č-2</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>4410</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>VRANKOVÁ Nina</Name>
@@ -430,14 +430,14 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>4410</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-21T18:54:19.7952749+02:00</CreationDate>
+      <Order>11</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
