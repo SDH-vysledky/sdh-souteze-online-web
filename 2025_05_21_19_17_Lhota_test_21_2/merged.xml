@@ -115,7 +115,7 @@
       <Valid>false</Valid>
       <Times>
         <int>8050</int>
-        <int>8000</int>
+        <int>6000</int>
         <int>0</int>
         <int>0</int>
       </Times>
