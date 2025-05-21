@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:28:29.9132766+02:00</CreationDate>
-      <Order>3</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -38,7 +38,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:28:30.5065387+02:00</CreationDate>
-      <Order>2</Order>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -59,7 +59,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:29:04.8412214+02:00</CreationDate>
-      <Order>5</Order>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -80,7 +80,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:29:05.3731255+02:00</CreationDate>
-      <Order>6</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -101,7 +101,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:29:37.6235109+02:00</CreationDate>
-      <Order>7</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -143,7 +143,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:31:10.6392245+02:00</CreationDate>
-      <Order>1</Order>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -164,28 +164,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:31:12.228878+02:00</CreationDate>
-      <Order>4</Order>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>5-1-9_č-1</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>1350</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>NOVOSADOVÁ Natálie</Name>
       <Team>Lhota u Zlína</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>1350</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-21T18:32:00.2309631+02:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
