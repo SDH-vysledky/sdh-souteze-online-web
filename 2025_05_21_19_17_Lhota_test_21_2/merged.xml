@@ -107,15 +107,15 @@
     <DataRecordClass>
       <StartNr>6</StartNr>
       <Category>starší</Category>
-      <Try1>10920</Try1>
+      <Try1>8050</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>fffffff</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>10920</int>
-        <int>8300</int>
+        <int>8050</int>
+        <int>8000</int>
         <int>0</int>
         <int>0</int>
       </Times>
