@@ -24,20 +24,20 @@
       <StartNr>2</StartNr>
       <Category>mladší</Category>
       <Try1>11560</Try1>
-      <Try2>0</Try2>
+      <Try2>8520</Try2>
       <Line>Útok (1+2)</Line>
       <Name>bbbbb</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>11560</int>
-        <int>10260</int>
+        <int>8520</int>
+        <int>5020</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>2025-05-21T18:16:28.2804199+02:00</CreationDate>
+      <CreationDate>2025-05-21T19:20:02.9507374+02:00</CreationDate>
       <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
