@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:28:29.9132766+02:00</CreationDate>
-      <Order>5</Order>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -38,7 +38,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:28:30.5065387+02:00</CreationDate>
-      <Order>4</Order>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -164,7 +164,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:31:12.228878+02:00</CreationDate>
-      <Order>6</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -212,7 +212,7 @@
     <DataRecordClass>
       <StartNr>6-1-11_č-1</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>5690</Try1>
+      <Try1>-5690</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>CHYTILOVÁ Valérie</Name>
@@ -227,13 +227,13 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:50:19.6291146+02:00</CreationDate>
-      <Order>7</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>6-2-12_č-1</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>-3110</Try1>
+      <Try1>3110</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>MIKŠÍKOVÁ Marianna</Name>
@@ -248,7 +248,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T18:50:20.6554504+02:00</CreationDate>
-      <Order>0</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
