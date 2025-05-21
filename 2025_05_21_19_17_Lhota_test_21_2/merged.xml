@@ -38,7 +38,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T19:20:02.9507374+02:00</CreationDate>
-      <Order>3</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -59,7 +59,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-21T19:21:39.6724638+02:00</CreationDate>
-      <Order>2</Order>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -86,22 +86,22 @@
     <DataRecordClass>
       <StartNr>5</StartNr>
       <Category>starší</Category>
-      <Try1>0</Try1>
+      <Try1>8050</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>eeee</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>8050</int>
+        <int>6460</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-21T19:55:39.3692278+02:00</CreationDate>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
