@@ -1,6 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vysledky><DataRecordClass>
-      <StartNr />
+      <StartNr>1</StartNr>
+      <Category>starší</Category>
+      <Try1>14730</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Lhota A</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>14380</int>
+        <int>14730</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-05-24T09:20:49.8447157+02:00</CreationDate>
+      <Order>1</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>2</StartNr>
+      <Category>mladší</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Prštné A</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>3</StartNr>
+      <Category>mladší</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>4</StartNr>
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
@@ -21,7 +84,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
+      <StartNr>5</StartNr>
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
@@ -42,7 +105,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
+      <StartNr>6</StartNr>
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
@@ -63,7 +126,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
+      <StartNr>7</StartNr>
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
@@ -84,7 +147,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
+      <StartNr>8</StartNr>
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
@@ -105,7 +168,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
+      <StartNr>9</StartNr>
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
@@ -126,7 +189,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
+      <StartNr>10</StartNr>
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
@@ -147,7 +210,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
+      <StartNr>11</StartNr>
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
@@ -168,70 +231,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
-      <Try1>0</Try1>
-      <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
-      <Valid>false</Valid>
-      <Times>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
-      <StartNr />
-      <Category />
-      <Try1>0</Try1>
-      <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
-      <Valid>false</Valid>
-      <Times>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
-      <StartNr />
-      <Category />
-      <Try1>0</Try1>
-      <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
-      <Valid>false</Valid>
-      <Times>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
-      <StartNr />
+      <StartNr>12</StartNr>
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
