@@ -1,47 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vysledky><DataRecordClass>
-      <StartNr>1</StartNr>
-      <Category>starší</Category>
-      <Try1>9130</Try1>
-      <Try2>0</Try2>
-      <Line>Útok (1+2)</Line>
-      <Name>Lhota A</Name>
-      <Team>ZL</Team>
-      <Valid>false</Valid>
-      <Times>
-        <int>6640</int>
-        <int>9130</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>2025-05-24T08:45:05.8563703+02:00</CreationDate>
-      <Order>1</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
-      <StartNr />
-      <Category>starší</Category>
-      <Try1>14570</Try1>
-      <Try2>0</Try2>
-      <Line>Útok (1+2)</Line>
-      <Name>saaa</Name>
-      <Team />
-      <Valid>false</Valid>
-      <Times>
-        <int>12780</int>
-        <int>14570</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>2025-05-24T08:52:33.0201038+02:00</CreationDate>
-      <Order>2</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
       <StartNr />
       <Category />
       <Try1>0</Try1>
