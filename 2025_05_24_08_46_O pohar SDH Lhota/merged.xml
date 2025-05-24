@@ -59,7 +59,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T09:32:28.5373278+02:00</CreationDate>
-      <Order>12</Order>
+      <Order>13</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -275,22 +275,22 @@
     <DataRecordClass>
       <StartNr>14</StartNr>
       <Category>mladší</Category>
-      <Try1>0</Try1>
+      <Try1>36800</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Lhodka B</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>36800</int>
+        <int>35690</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T10:31:42.7665755+02:00</CreationDate>
+      <Order>12</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
