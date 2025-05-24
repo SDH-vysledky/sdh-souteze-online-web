@@ -485,15 +485,15 @@
     <DataRecordClass>
       <StartNr>24</StartNr>
       <Category>starší</Category>
-      <Try1>0</Try1>
+      <Try1>14700</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Doubravy</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>14700</int>
+        <int>14560</int>
         <int>0</int>
         <int>0</int>
       </Times>
