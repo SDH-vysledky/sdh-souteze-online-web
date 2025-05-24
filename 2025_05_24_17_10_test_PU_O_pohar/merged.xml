@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T17:06:29.066094+02:00</CreationDate>
-      <Order>2</Order>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -38,28 +38,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T17:11:46.4644572+02:00</CreationDate>
-      <Order>1</Order>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>3</StartNr>
       <Category>B</Category>
-      <Try1>0</Try1>
+      <Try1>5410</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>ccc</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>4320</int>
+        <int>5410</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T17:12:18.7522164+02:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
