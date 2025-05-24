@@ -38,7 +38,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T09:26:39.2133795+02:00</CreationDate>
-      <Order>8</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -59,7 +59,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T09:32:28.5373278+02:00</CreationDate>
-      <Order>9</Order>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -212,22 +212,22 @@
     <DataRecordClass>
       <StartNr>11</StartNr>
       <Category>mladší</Category>
-      <Try1>0</Try1>
+      <Try1>26720</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Šarovy</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>26720</int>
+        <int>17830</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T10:16:27.6735018+02:00</CreationDate>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -400,11 +400,11 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>20</StartNr>
-      <Category />
+      <Category>přípravka</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
+      <Name>Tečovice</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
