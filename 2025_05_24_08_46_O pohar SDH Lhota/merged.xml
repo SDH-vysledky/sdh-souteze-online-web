@@ -23,10 +23,31 @@
     <DataRecordClass>
       <StartNr>2</StartNr>
       <Category>mladší</Category>
-      <Try1>0</Try1>
+      <Try1>36530</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Prštné A</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>36530</int>
+        <int>33950</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-05-24T09:26:39.2133795+02:00</CreationDate>
+      <Order>2</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>3</StartNr>
+      <Category>mladší</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Prštné B</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
@@ -42,34 +63,13 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr>3</StartNr>
-      <Category>mladší</Category>
-      <Try1>0</Try1>
-      <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
-      <Valid>false</Valid>
-      <Times>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
       <StartNr>4</StartNr>
-      <Category />
+      <Category>starší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Lhotka</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -85,12 +85,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>5</StartNr>
-      <Category />
+      <Category>mladší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Mladcová</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -106,12 +106,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>6</StartNr>
-      <Category />
+      <Category>mladší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Lhota</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -127,11 +127,11 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>7</StartNr>
-      <Category />
+      <Category>mladší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
+      <Line>Útok (1+2)</Line>
+      <Name>D</Name>
       <Team />
       <Valid>false</Valid>
       <Times>
