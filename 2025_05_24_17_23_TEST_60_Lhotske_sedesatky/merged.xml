@@ -44,28 +44,28 @@
     <DataRecordClass>
       <StartNr>2-1-3_č-1</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>7210</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>ONDROVÁ Annabella</Name>
       <Team>Pohořelice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>7210</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T17:28:55.0909649+02:00</CreationDate>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>2-2-4_č-1</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>8260</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>KRÁLOVÁ Mia</Name>
@@ -73,14 +73,14 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>8260</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T17:28:55.5291337+02:00</CreationDate>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
