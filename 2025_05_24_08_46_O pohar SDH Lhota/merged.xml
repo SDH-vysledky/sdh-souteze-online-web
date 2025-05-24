@@ -38,7 +38,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T09:26:39.2133795+02:00</CreationDate>
-      <Order>15</Order>
+      <Order>17</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -59,7 +59,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T09:32:28.5373278+02:00</CreationDate>
-      <Order>17</Order>
+      <Order>19</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -185,7 +185,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:05:48.3914327+02:00</CreationDate>
-      <Order>13</Order>
+      <Order>14</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -206,7 +206,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:10:47.008431+02:00</CreationDate>
-      <Order>11</Order>
+      <Order>12</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -227,7 +227,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:16:27.6735018+02:00</CreationDate>
-      <Order>14</Order>
+      <Order>15</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -290,7 +290,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:31:42.7665755+02:00</CreationDate>
-      <Order>16</Order>
+      <Order>18</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -353,7 +353,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:48:59.2162486+02:00</CreationDate>
-      <Order>12</Order>
+      <Order>13</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -374,7 +374,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:53:58.9307098+02:00</CreationDate>
-      <Order>10</Order>
+      <Order>11</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -401,43 +401,43 @@
     <DataRecordClass>
       <StartNr>20</StartNr>
       <Category>přípravka</Category>
-      <Try1>0</Try1>
+      <Try1>33550</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Tečovice</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>32990</int>
+        <int>33550</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T11:07:59.8009152+02:00</CreationDate>
+      <Order>16</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>21</StartNr>
       <Category>mladší</Category>
-      <Try1>0</Try1>
+      <Try1>21930</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Nedašov</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>20720</int>
+        <int>21930</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T11:13:28.1561072+02:00</CreationDate>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -484,11 +484,11 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>24</StartNr>
-      <Category />
+      <Category>mladší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
+      <Name>Zlín-Malenovice</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
