@@ -38,7 +38,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T09:26:39.2133795+02:00</CreationDate>
-      <Order>6</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -59,7 +59,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T09:32:28.5373278+02:00</CreationDate>
-      <Order>7</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -170,22 +170,22 @@
     <DataRecordClass>
       <StartNr>9</StartNr>
       <Category>mladší</Category>
-      <Try1>0</Try1>
+      <Try1>26640</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Pitín</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>26470</int>
+        <int>26640</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T10:05:48.3914327+02:00</CreationDate>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -341,7 +341,7 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name>Salaš</Name>
+      <Name>Štítná nad Vláří</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
@@ -358,11 +358,11 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>18</StartNr>
-      <Category />
+      <Category>starší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
+      <Name>Salaš</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
@@ -379,11 +379,11 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>19</StartNr>
-      <Category />
+      <Category>starší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
+      <Name>Louky</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
