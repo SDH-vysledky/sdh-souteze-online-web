@@ -170,28 +170,28 @@
     <DataRecordClass>
       <StartNr>5-1-9_č-1</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>-10420</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>MIKŠÍKOVÁ Marianna</Name>
       <Team>Lhota u Zlína</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>10420</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2025-05-24T17:30:37.5782546+02:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>5-2-10_č-1</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>10020</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>TRČKOVÁ Aneta</Name>
@@ -199,41 +199,41 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>10020</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T17:30:38.6436145+02:00</CreationDate>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>6-1-11_č-1</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>8440</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>HRUŠKOVÁ Jovana</Name>
       <Team>Pohořelice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>8440</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T17:31:09.5824947+02:00</CreationDate>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>6-2-12_č-1</StartNr>
       <Category>Mladší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>11080</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>CHYTILOVÁ Valérie</Name>
@@ -241,14 +241,14 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>11080</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T17:31:10.0239421+02:00</CreationDate>
+      <Order>11</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
