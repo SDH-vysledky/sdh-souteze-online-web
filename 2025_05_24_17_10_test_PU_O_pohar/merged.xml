@@ -279,7 +279,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>nnn</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -298,9 +298,9 @@
       <Category>B</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
+      <Line>Útok (1+2)</Line>
       <Name>ppp</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -319,9 +319,9 @@
       <Category>A</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
+      <Line>Útok (1+2)</Line>
       <Name>ooo</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
