@@ -38,7 +38,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T09:26:39.2133795+02:00</CreationDate>
-      <Order>18</Order>
+      <Order>19</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -59,7 +59,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T09:32:28.5373278+02:00</CreationDate>
-      <Order>20</Order>
+      <Order>21</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -185,7 +185,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:05:48.3914327+02:00</CreationDate>
-      <Order>15</Order>
+      <Order>16</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -206,7 +206,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:10:47.008431+02:00</CreationDate>
-      <Order>13</Order>
+      <Order>14</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -227,7 +227,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:16:27.6735018+02:00</CreationDate>
-      <Order>16</Order>
+      <Order>17</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -290,7 +290,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:31:42.7665755+02:00</CreationDate>
-      <Order>19</Order>
+      <Order>20</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -353,7 +353,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T10:48:59.2162486+02:00</CreationDate>
-      <Order>14</Order>
+      <Order>15</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -416,7 +416,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-05-24T11:07:59.8009152+02:00</CreationDate>
-      <Order>17</Order>
+      <Order>18</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -506,22 +506,22 @@
     <DataRecordClass>
       <StartNr>25</StartNr>
       <Category>mladší</Category>
-      <Try1>0</Try1>
+      <Try1>23050</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Zlín-Malenovice</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>22780</int>
+        <int>23050</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-05-24T11:36:34.4688284+02:00</CreationDate>
+      <Order>13</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -551,7 +551,7 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name>Štípa</Name>
+      <Name>Štípa A</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
@@ -568,11 +568,11 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>28</StartNr>
-      <Category />
+      <Category>starší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
+      <Name>Loučka</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
@@ -589,11 +589,11 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>29</StartNr>
-      <Category />
+      <Category>mladší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
+      <Name>Doubravy A</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
@@ -610,11 +610,95 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>30</StartNr>
-      <Category />
+      <Category>mladší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
+      <Name>Březnice</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>31</StartNr>
+      <Category>mladší</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Štípa B</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>32</StartNr>
+      <Category>příptavka</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Lhota</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>33</StartNr>
+      <Category>starší</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Újezd</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>34</StartNr>
+      <Category>starší</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Trnava</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
