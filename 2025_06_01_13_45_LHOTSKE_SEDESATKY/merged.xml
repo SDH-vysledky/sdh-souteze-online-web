@@ -443,14 +443,14 @@
     <DataRecordClass>
       <StartNr>8-1-15_č-1</StartNr>
       <Category>Starší dívky</Category>
-      <Try1>14490</Try1>
+      <Try1>15180</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>LAJDOVÁ Veronika</Name>
       <Team>Roštění</Team>
       <Valid>false</Valid>
       <Times>
-        <int>14490</int>
+        <int>15180</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
