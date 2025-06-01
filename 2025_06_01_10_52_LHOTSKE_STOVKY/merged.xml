@@ -101,7 +101,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:43:43.2732977+02:00</CreationDate>
-      <Order>49</Order>
+      <Order>51</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -206,7 +206,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:47:17.7589708+02:00</CreationDate>
-      <Order>47</Order>
+      <Order>49</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -416,7 +416,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:53:43.9722888+02:00</CreationDate>
-      <Order>45</Order>
+      <Order>47</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -479,7 +479,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:57:16.5608478+02:00</CreationDate>
-      <Order>50</Order>
+      <Order>52</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -773,7 +773,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T12:24:17.7124821+02:00</CreationDate>
-      <Order>44</Order>
+      <Order>46</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -941,7 +941,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T12:34:05.105236+02:00</CreationDate>
-      <Order>48</Order>
+      <Order>50</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1277,7 +1277,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T12:52:21.6824437+02:00</CreationDate>
-      <Order>46</Order>
+      <Order>48</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1346,28 +1346,28 @@
     <DataRecordClass>
       <StartNr>37-1-4_č-2</StartNr>
       <Category>Mladší dorostenky</Category>
-      <Try1>0</Try1>
+      <Try1>26010</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>RACKOVÁ Kamila</Name>
       <Team>Kyselovice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>26010</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T12:56:28.5611045+02:00</CreationDate>
+      <Order>45</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>37-2-2_ž-2</StartNr>
       <Category>Mladší dorostenci</Category>
-      <Try1>0</Try1>
+      <Try1>25670</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>ONDRA Jakub</Name>
@@ -1375,14 +1375,14 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>25670</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T12:56:29.5569568+02:00</CreationDate>
+      <Order>44</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
