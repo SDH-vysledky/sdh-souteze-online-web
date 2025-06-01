@@ -80,7 +80,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T13:52:50.189948+02:00</CreationDate>
-      <Order>99</Order>
+      <Order>100</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -332,7 +332,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T14:00:55.2657029+02:00</CreationDate>
-      <Order>97</Order>
+      <Order>98</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -626,7 +626,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T14:06:17.3942561+02:00</CreationDate>
-      <Order>96</Order>
+      <Order>97</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -878,7 +878,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T14:13:06.7001197+02:00</CreationDate>
-      <Order>93</Order>
+      <Order>94</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1445,7 +1445,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T14:30:17.217034+02:00</CreationDate>
-      <Order>98</Order>
+      <Order>99</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1529,7 +1529,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T14:32:49.4523116+02:00</CreationDate>
-      <Order>95</Order>
+      <Order>96</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2474,34 +2474,34 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:15:58.644286+02:00</CreationDate>
-      <Order>94</Order>
+      <Order>95</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>46-1-74_č-1</StartNr>
       <Category>Nejmladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>108020</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>MIKEŠKOVÁ Kristýna</Name>
       <Team>Roštění</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>108020</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T15:18:36.3192093+02:00</CreationDate>
+      <Order>101</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>46-2-75_č-1</StartNr>
       <Category>Nejmladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>-10550</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>BEČICA Sebastian</Name>
@@ -2509,20 +2509,20 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>10550</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2025-06-01T15:18:36.7381262+02:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>46-3-76_č-1</StartNr>
       <Category>Nejmladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>23590</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>STANÍKOVÁ Amálie</Name>
@@ -2531,13 +2531,13 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>0</int>
+        <int>23590</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T15:18:37.25074+02:00</CreationDate>
+      <Order>93</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
