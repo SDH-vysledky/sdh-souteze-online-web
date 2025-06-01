@@ -80,7 +80,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T13:52:50.189948+02:00</CreationDate>
-      <Order>102</Order>
+      <Order>104</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1445,7 +1445,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T14:30:17.217034+02:00</CreationDate>
-      <Order>101</Order>
+      <Order>102</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2495,7 +2495,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:18:36.3192093+02:00</CreationDate>
-      <Order>104</Order>
+      <Order>106</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2600,34 +2600,34 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:20:32.2689623+02:00</CreationDate>
-      <Order>103</Order>
+      <Order>105</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>48-1-80_č-1</StartNr>
       <Category>Nejmladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>30680</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>SLAVÍK Tadeáš</Name>
       <Team>Pohořelice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>30680</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T15:22:16.8633992+02:00</CreationDate>
+      <Order>101</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>48-2-81_č-1</StartNr>
       <Category>Nejmladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>35640</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>TOMÁNEK Matěj</Name>
@@ -2635,20 +2635,20 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>35640</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T15:22:17.3591611+02:00</CreationDate>
+      <Order>103</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>48-3-82_č-1</StartNr>
       <Category>Nejmladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>-20610</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>ADRIANA Chytilová</Name>
@@ -2657,12 +2657,12 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>0</int>
+        <int>20610</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2025-06-01T15:22:18.3048296+02:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
