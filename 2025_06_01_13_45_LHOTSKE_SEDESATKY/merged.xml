@@ -80,7 +80,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T13:52:50.189948+02:00</CreationDate>
-      <Order>12</Order>
+      <Order>11</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -233,7 +233,7 @@
     <DataRecordClass>
       <StartNr>4-3-4_ž-1</StartNr>
       <Category>Starší chlapci</Category>
-      <Try1>30180</Try1>
+      <Try1>-30180</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>ŠOLC Ondřej</Name>
@@ -248,7 +248,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T13:58:03.7427121+02:00</CreationDate>
-      <Order>11</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
