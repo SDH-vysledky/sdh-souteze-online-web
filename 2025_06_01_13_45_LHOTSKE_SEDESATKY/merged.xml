@@ -80,7 +80,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T13:52:50.189948+02:00</CreationDate>
-      <Order>113</Order>
+      <Order>115</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -332,7 +332,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T14:00:55.2657029+02:00</CreationDate>
-      <Order>107</Order>
+      <Order>108</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -626,7 +626,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T14:06:17.3942561+02:00</CreationDate>
-      <Order>104</Order>
+      <Order>105</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1445,7 +1445,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T14:30:17.217034+02:00</CreationDate>
-      <Order>110</Order>
+      <Order>111</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1529,7 +1529,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T14:32:49.4523116+02:00</CreationDate>
-      <Order>103</Order>
+      <Order>104</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2474,7 +2474,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:15:58.644286+02:00</CreationDate>
-      <Order>101</Order>
+      <Order>102</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2495,7 +2495,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:18:36.3192093+02:00</CreationDate>
-      <Order>117</Order>
+      <Order>120</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2558,7 +2558,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:20:30.9007302+02:00</CreationDate>
-      <Order>102</Order>
+      <Order>103</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2600,7 +2600,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:20:32.2689623+02:00</CreationDate>
-      <Order>115</Order>
+      <Order>117</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2621,7 +2621,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:22:16.8633992+02:00</CreationDate>
-      <Order>108</Order>
+      <Order>109</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2642,7 +2642,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:22:17.3591611+02:00</CreationDate>
-      <Order>112</Order>
+      <Order>114</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2705,7 +2705,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:23:32.7486684+02:00</CreationDate>
-      <Order>109</Order>
+      <Order>110</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2768,7 +2768,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:26:37.0946566+02:00</CreationDate>
-      <Order>116</Order>
+      <Order>118</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2810,7 +2810,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:28:12.1161984+02:00</CreationDate>
-      <Order>105</Order>
+      <Order>106</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2831,7 +2831,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:28:12.5447704+02:00</CreationDate>
-      <Order>100</Order>
+      <Order>101</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2852,7 +2852,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:28:13.9011977+02:00</CreationDate>
-      <Order>111</Order>
+      <Order>113</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2873,7 +2873,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:29:03.8971919+02:00</CreationDate>
-      <Order>114</Order>
+      <Order>116</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2894,7 +2894,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:29:04.3918927+02:00</CreationDate>
-      <Order>106</Order>
+      <Order>107</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2921,28 +2921,28 @@
     <DataRecordClass>
       <StartNr>53-1-95_č-1</StartNr>
       <Category>Nejmladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>33280</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>ČERNOCKÝ Tomáš</Name>
       <Team>Kvítkovice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>33280</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T15:31:30.4245147+02:00</CreationDate>
+      <Order>112</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>53-2-96_č-1</StartNr>
       <Category>Nejmladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>24010</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>BOŘUTOVÁ Michaela</Name>
@@ -2950,20 +2950,20 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>24010</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T15:31:31.4378258+02:00</CreationDate>
+      <Order>100</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>53-3-97_č-1</StartNr>
       <Category>Nejmladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>61750</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>HANÁČKOVÁ Kristýna</Name>
@@ -2972,13 +2972,13 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>0</int>
+        <int>61750</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T15:31:32.6668317+02:00</CreationDate>
+      <Order>119</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
