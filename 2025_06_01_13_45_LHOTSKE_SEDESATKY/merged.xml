@@ -2495,7 +2495,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:18:36.3192093+02:00</CreationDate>
-      <Order>172</Order>
+      <Order>171</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -4286,7 +4286,7 @@
     <DataRecordClass>
       <StartNr>75-2-52_ž-1</StartNr>
       <Category>Mladší chlapci</Category>
-      <Try1>91960</Try1>
+      <Try1>-91960</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>ZVONAŘ Maxim</Name>
@@ -4301,7 +4301,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T16:10:24.377396+02:00</CreationDate>
-      <Order>171</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
