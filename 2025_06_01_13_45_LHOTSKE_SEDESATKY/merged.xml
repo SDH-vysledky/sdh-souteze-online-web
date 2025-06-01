@@ -4706,14 +4706,14 @@
     <DataRecordClass>
       <StartNr>82-1-60_ž-2</StartNr>
       <Category>Mladší chlapci</Category>
-      <Try1>18830</Try1>
+      <Try1>20310</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>TRECHA Jonáš</Name>
       <Team>Zádveřice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>18830</int>
+        <int>20310</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
