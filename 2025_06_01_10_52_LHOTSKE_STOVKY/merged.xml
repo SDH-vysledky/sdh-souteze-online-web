@@ -464,28 +464,28 @@
     <DataRecordClass>
       <StartNr>13-1-45_č-2</StartNr>
       <Category>Střední dorostenky</Category>
-      <Try1>0</Try1>
+      <Try1>37200</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>INDRÁKOVÁ Štěpánka</Name>
       <Team>Kyselovice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>37200</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T11:57:16.5608478+02:00</CreationDate>
+      <Order>19</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>13-2-25_ž-2</StartNr>
       <Category>Starší dorostenci</Category>
-      <Try1>0</Try1>
+      <Try1>-17560</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>HANÁČEK (MUŽ) Štěpán</Name>
@@ -493,13 +493,13 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>17560</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2025-06-01T11:57:20.857373+02:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
