@@ -101,7 +101,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:43:43.2732977+02:00</CreationDate>
-      <Order>18</Order>
+      <Order>19</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -206,7 +206,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:47:17.7589708+02:00</CreationDate>
-      <Order>17</Order>
+      <Order>18</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -416,7 +416,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:53:43.9722888+02:00</CreationDate>
-      <Order>16</Order>
+      <Order>17</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -479,7 +479,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:57:16.5608478+02:00</CreationDate>
-      <Order>19</Order>
+      <Order>20</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -527,7 +527,7 @@
     <DataRecordClass>
       <StartNr>14-2-26_ž-2</StartNr>
       <Category>Starší dorostenci</Category>
-      <Try1>0</Try1>
+      <Try1>24430</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>LAJDA Jakub</Name>
@@ -535,14 +535,14 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>24430</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T11:58:27.3986607+02:00</CreationDate>
+      <Order>16</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
