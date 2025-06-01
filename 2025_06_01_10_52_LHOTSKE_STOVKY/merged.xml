@@ -101,7 +101,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:43:43.2732977+02:00</CreationDate>
-      <Order>15</Order>
+      <Order>17</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -206,7 +206,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:47:17.7589708+02:00</CreationDate>
-      <Order>14</Order>
+      <Order>16</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -380,28 +380,28 @@
     <DataRecordClass>
       <StartNr>11-1-43_č-2</StartNr>
       <Category>Střední dorostenky</Category>
-      <Try1>0</Try1>
+      <Try1>23440</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>NOVOTNÁ Tereza</Name>
       <Team>Slušovice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>23440</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T11:53:42.6294991+02:00</CreationDate>
+      <Order>14</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>11-2-23_ž-2</StartNr>
       <Category>Starší dorostenci</Category>
-      <Try1>0</Try1>
+      <Try1>28910</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>BARTOŠ Matouš</Name>
@@ -409,14 +409,14 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>28910</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T11:53:43.9722888+02:00</CreationDate>
+      <Order>15</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
