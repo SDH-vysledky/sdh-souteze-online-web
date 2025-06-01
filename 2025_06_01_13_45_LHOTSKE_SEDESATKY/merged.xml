@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T13:51:14.2136714+02:00</CreationDate>
-      <Order>3</Order>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -38,7 +38,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T13:51:14.6906786+02:00</CreationDate>
-      <Order>1</Order>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -59,34 +59,34 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T13:51:15.2471745+02:00</CreationDate>
-      <Order>2</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>2-1-3_č-1</StartNr>
       <Category>Starší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>36160</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>ŠEBKOVÁ Anežka</Name>
       <Team>Pohořelice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>36160</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T13:52:50.189948+02:00</CreationDate>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>2-2-4_č-1</StartNr>
       <Category>Starší dívky</Category>
-      <Try1>0</Try1>
+      <Try1>14450</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>CHMELOVÁ Lucie</Name>
@@ -94,20 +94,20 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>14450</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T13:52:53.3854397+02:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>2-3-2_ž-1</StartNr>
       <Category>Starší chlapci</Category>
-      <Try1>0</Try1>
+      <Try1>16090</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>KARPIEL Tomáš</Name>
@@ -116,13 +116,13 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>0</int>
+        <int>16090</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-01T13:52:50.6253905+02:00</CreationDate>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
