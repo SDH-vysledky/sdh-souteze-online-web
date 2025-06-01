@@ -479,7 +479,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T11:57:16.5608478+02:00</CreationDate>
-      <Order>28</Order>
+      <Order>27</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -800,7 +800,7 @@
     <DataRecordClass>
       <StartNr>21-2-45_ž-1</StartNr>
       <Category>Střední dorostenci</Category>
-      <Try1>36890</Try1>
+      <Try1>-36890</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>HROMADA Ondřej</Name>
@@ -815,7 +815,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T12:26:17.9745735+02:00</CreationDate>
-      <Order>27</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
