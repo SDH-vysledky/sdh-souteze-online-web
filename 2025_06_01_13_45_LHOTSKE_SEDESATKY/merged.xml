@@ -80,7 +80,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T13:52:50.189948+02:00</CreationDate>
-      <Order>131</Order>
+      <Order>130</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2495,7 +2495,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:18:36.3192093+02:00</CreationDate>
-      <Order>137</Order>
+      <Order>136</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2600,7 +2600,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:20:32.2689623+02:00</CreationDate>
-      <Order>134</Order>
+      <Order>133</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2642,7 +2642,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:22:17.3591611+02:00</CreationDate>
-      <Order>129</Order>
+      <Order>128</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2768,7 +2768,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:26:37.0946566+02:00</CreationDate>
-      <Order>135</Order>
+      <Order>134</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2873,7 +2873,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:29:03.8971919+02:00</CreationDate>
-      <Order>132</Order>
+      <Order>131</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2978,7 +2978,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:31:32.6668317+02:00</CreationDate>
-      <Order>136</Order>
+      <Order>135</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3293,7 +3293,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:40:05.6308343+02:00</CreationDate>
-      <Order>133</Order>
+      <Order>132</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3320,7 +3320,7 @@
     <DataRecordClass>
       <StartNr>60-1-86_č-2</StartNr>
       <Category>Nejmladší žáci</Category>
-      <Try1>35120</Try1>
+      <Try1>-35120</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>ERNEST Viktor</Name>
@@ -3335,7 +3335,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:42:14.6615031+02:00</CreationDate>
-      <Order>128</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3356,7 +3356,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-01T15:42:15.4110909+02:00</CreationDate>
-      <Order>130</Order>
+      <Order>129</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
