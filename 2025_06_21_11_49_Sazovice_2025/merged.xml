@@ -1109,7 +1109,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-21T14:56:05.1090561+02:00</CreationDate>
-      <Order>2</Order>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1130,28 +1130,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-21T15:01:21.0947436+02:00</CreationDate>
-      <Order>3</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>4</StartNr>
       <Category>ženy</Category>
-      <Try1>0</Try1>
+      <Try1>18160</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Roštění</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>15900</int>
+        <int>18160</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-21T15:05:49.9200676+02:00</CreationDate>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
