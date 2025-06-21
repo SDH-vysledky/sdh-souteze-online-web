@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-21T12:34:20.0945525+02:00</CreationDate>
-      <Order>6</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -128,22 +128,22 @@
     <DataRecordClass>
       <StartNr>7</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>18620</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Vřesovice</Name>
       <Team>Ho</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>18620</int>
+        <int>17090</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-21T13:04:31.5687085+02:00</CreationDate>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
