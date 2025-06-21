@@ -2,7 +2,7 @@
 <Vysledky><DataRecordClass>
       <StartNr>1</StartNr>
       <Category>dorci</Category>
-      <Try1>29880</Try1>
+      <Try1>-29880</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Lhotka</Name>
@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-21T15:17:41.5734871+02:00</CreationDate>
-      <Order>1</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
