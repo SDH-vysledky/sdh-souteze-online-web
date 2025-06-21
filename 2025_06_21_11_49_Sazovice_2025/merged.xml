@@ -1130,7 +1130,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-21T15:01:21.0947436+02:00</CreationDate>
-      <Order>7</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1220,22 +1220,22 @@
     <DataRecordClass>
       <StartNr>8</StartNr>
       <Category>ženy</Category>
-      <Try1>0</Try1>
+      <Try1>20020</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Bratřejov</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>20020</int>
+        <int>18660</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-21T15:54:43.5293319+02:00</CreationDate>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
