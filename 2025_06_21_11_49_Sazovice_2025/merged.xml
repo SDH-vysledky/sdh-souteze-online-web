@@ -110,7 +110,7 @@
       <Try1>20570</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name>Bžezolupy</Name>
+      <Name>Březolupy</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
@@ -130,9 +130,9 @@
       <Category>dorci</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Březnice</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
