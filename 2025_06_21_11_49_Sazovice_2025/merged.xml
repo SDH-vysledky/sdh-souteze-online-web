@@ -252,7 +252,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr>132</StartNr>
+      <StartNr>13</StartNr>
       <Category>dorci</Category>
       <Try1>17450</Try1>
       <Try2>0</Try2>
@@ -275,11 +275,32 @@
     <DataRecordClass>
       <StartNr>14</StartNr>
       <Category>dorci</Category>
+      <Try1>-18760</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Trnava</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>18760</int>
+        <int>18650</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-21T17:48:08.9782052+02:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>15</StartNr>
+      <Category>dorci</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Rudimov</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
