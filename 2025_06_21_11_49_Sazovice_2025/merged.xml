@@ -59,13 +59,13 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-21T15:38:14.3565133+02:00</CreationDate>
-      <Order>3</Order>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>4</StartNr>
       <Category>dorci</Category>
-      <Try1>22040</Try1>
+      <Try1>-22040</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Mirošov</Name>
@@ -80,7 +80,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-21T15:48:45.2312616+02:00</CreationDate>
-      <Order>2</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
