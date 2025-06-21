@@ -87,20 +87,20 @@
       <StartNr>5</StartNr>
       <Category>muži</Category>
       <Try1>17230</Try1>
-      <Try2>0</Try2>
+      <Try2>17990</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Veselá</Name>
       <Team>Zl</Team>
       <Valid>false</Valid>
       <Times>
-        <int>16840</int>
-        <int>17230</int>
+        <int>17990</int>
+        <int>17770</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>2025-06-21T12:54:24.2895148+02:00</CreationDate>
+      <CreationDate>2025-06-21T12:59:58.5018719+02:00</CreationDate>
       <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
