@@ -983,7 +983,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-06-21T14:42:42.7418022+02:00</CreationDate>
-      <Order>3</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1031,22 +1031,22 @@
     <DataRecordClass>
       <StartNr>4</StartNr>
       <Category>muži35</Category>
-      <Try1>0</Try1>
+      <Try1>18720</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Salaš</Name>
+      <Team>UH</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>18720</int>
+        <int>18560</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-06-21T17:18:30.5627451+02:00</CreationDate>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
