@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-11-11T18:33:44.4546923+01:00</CreationDate>
-      <Order>2</Order>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -38,28 +38,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-11-11T18:35:53.2987671+01:00</CreationDate>
-      <Order>1</Order>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>3</StartNr>
-      <Category />
-      <Try1>0</Try1>
+      <Category>muži</Category>
+      <Try1>4090</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>cccc</Name>
+      <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>4020</int>
+        <int>4090</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-11-11T18:39:01.8590496+01:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
