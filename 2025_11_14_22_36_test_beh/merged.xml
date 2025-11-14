@@ -1,0 +1,1514 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Vysledky><DataRecordClass>
+      <StartNr>1-1-41_č-1</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>20370</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>DŘINKOVÁ Dominika</Name>
+      <Team>Ostrožská Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>20370</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:40:09.3822794+02:00</CreationDate>
+      <Order>16</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>1-2-21_ž-1</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>21090</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>KLIMEK Matěj</Name>
+      <Team>Kvítkovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>21090</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:40:09.9771586+02:00</CreationDate>
+      <Order>21</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>2-1-42_č-1</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>18650</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>TRČKOVÁ Barbora</Name>
+      <Team>Újezd</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>18650</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:41:35.0205106+02:00</CreationDate>
+      <Order>6</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>2-2-22_ž-1</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>20600</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>FAJGAR Jan</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>20600</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:41:35.5009387+02:00</CreationDate>
+      <Order>17</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>3-1-43_č-1</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>35050</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>NOVOTNÁ Tereza</Name>
+      <Team>Slušovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>35050</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:43:43.2732977+02:00</CreationDate>
+      <Order>55</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>3-2-23_ž-1</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>18330</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>BARTOŠ Matouš</Name>
+      <Team>Šumice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>18330</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:43:44.0987223+02:00</CreationDate>
+      <Order>3</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>4-1-44_č-1</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>23340</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>JINDŘIŠKOVÁ Viktorie</Name>
+      <Team>Kvítkovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>23340</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:45:25.821541+02:00</CreationDate>
+      <Order>42</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>4-2-24_ž-1</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>18870</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>NOVÁK Ondřej</Name>
+      <Team>Brno-Bosonohy</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>18870</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:45:26.384224+02:00</CreationDate>
+      <Order>7</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>5-1-45_č-1</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>23130</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>INDRÁKOVÁ Štěpánka</Name>
+      <Team>Kyselovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>23130</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:47:17.1666987+02:00</CreationDate>
+      <Order>41</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>5-2-25_ž-1</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>30190</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>HANÁČEK (MUŽ) Štěpán</Name>
+      <Team>Hrobice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>30190</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:47:17.7589708+02:00</CreationDate>
+      <Order>53</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>6-1-46_č-1</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>-1</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>CHMELOVÁ Lucie</Name>
+      <Team>Velký Ořechov</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>6-2-26_ž-1</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>20110</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>LAJDA Jakub</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>20110</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:48:24.5240836+02:00</CreationDate>
+      <Order>13</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>7-2-27_ž-1</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>-2</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>PINĎÁK (MUŽ) David</Name>
+      <Team>Popov</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>8-2-28_ž-1</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>-2</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>BREZNICKÝ Jan</Name>
+      <Team>Pitín</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>9-1-41_č-2</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>20260</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>DŘINKOVÁ Dominika</Name>
+      <Team>Ostrožská Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>20260</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:50:54.9519991+02:00</CreationDate>
+      <Order>14</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>9-2-21_ž-2</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>22250</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>KLIMEK Matěj</Name>
+      <Team>Kvítkovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>22250</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:50:55.4103475+02:00</CreationDate>
+      <Order>30</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>10-1-42_č-2</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>18580</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>TRČKOVÁ Barbora</Name>
+      <Team>Újezd</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>18580</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:52:00.9739602+02:00</CreationDate>
+      <Order>5</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>10-2-22_ž-2</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>18140</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>FAJGAR Jan</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>18140</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:52:01.5296814+02:00</CreationDate>
+      <Order>1</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>11-1-43_č-2</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>23440</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>NOVOTNÁ Tereza</Name>
+      <Team>Slušovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>23440</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:53:42.6294991+02:00</CreationDate>
+      <Order>43</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>11-2-23_ž-2</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>28910</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>BARTOŠ Matouš</Name>
+      <Team>Šumice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>28910</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:53:43.9722888+02:00</CreationDate>
+      <Order>51</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>12-1-44_č-2</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>21910</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>JINDŘIŠKOVÁ Viktorie</Name>
+      <Team>Kvítkovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>21910</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:55:33.2254588+02:00</CreationDate>
+      <Order>27</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>12-2-24_ž-2</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>-19010</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>NOVÁK Ondřej</Name>
+      <Team>Brno-Bosonohy</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>19010</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:55:33.9511709+02:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>13-1-45_č-2</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>37200</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>INDRÁKOVÁ Štěpánka</Name>
+      <Team>Kyselovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>37200</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:57:16.5608478+02:00</CreationDate>
+      <Order>56</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>13-2-25_ž-2</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>-17560</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>HANÁČEK (MUŽ) Štěpán</Name>
+      <Team>Hrobice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>17560</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:57:20.857373+02:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>14-1-46_č-2</StartNr>
+      <Category>Střední dorostenky</Category>
+      <Try1>-2</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>CHMELOVÁ Lucie</Name>
+      <Team>Velký Ořechov</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>14-2-26_ž-2</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>24430</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>LAJDA Jakub</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>24430</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T11:58:27.3986607+02:00</CreationDate>
+      <Order>45</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>15-2-27_ž-2</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>-1</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>PINĎÁK (MUŽ) David</Name>
+      <Team>Popov</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>16-2-28_ž-2</StartNr>
+      <Category>Starší dorostenci</Category>
+      <Try1>-1</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>BREZNICKÝ Jan</Name>
+      <Team>Pitín</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>16-konec</StartNr>
+      <Category>+++++</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name>+++++</Name>
+      <Team>+++++</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>17-1-21_č-1</StartNr>
+      <Category>Starší dorostenky</Category>
+      <Try1>22750</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>LIŠKOVÁ Justýna</Name>
+      <Team>Kyselovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>22750</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:19:09.4448936+02:00</CreationDate>
+      <Order>36</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>17-2-41_ž-1</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>23020</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>VYORAL Benedikt</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>23020</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:19:10.4208344+02:00</CreationDate>
+      <Order>39</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>18-1-22_č-1</StartNr>
+      <Category>Starší dorostenky</Category>
+      <Try1>-17650</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>KARPIELOVÁ Anna</Name>
+      <Team>Újezd</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>17650</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:20:27.0027142+02:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>18-2-42_ž-1</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>21840</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>DĚDIČ Jaroslav</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>21840</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:20:27.8778909+02:00</CreationDate>
+      <Order>26</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>19-1-23_č-1</StartNr>
+      <Category>Starší dorostenky</Category>
+      <Try1>19990</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>KONEČNÁ Alžběta</Name>
+      <Team>Zlín Malenovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>19990</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:22:56.4712828+02:00</CreationDate>
+      <Order>12</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>19-2-43_ž-1</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>-27030</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>VANČÍK Ondřej</Name>
+      <Team>Pohořelice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>27030</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:22:57.829609+02:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>20-1-24_č-1</StartNr>
+      <Category>Starší dorostenky</Category>
+      <Try1>18460</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>ŠŤASTNÁ Lucie</Name>
+      <Team>Šumice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>18460</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:24:16.7505738+02:00</CreationDate>
+      <Order>4</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>20-2-44_ž-1</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>27860</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>LAJDA Petr</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>27860</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:24:17.7124821+02:00</CreationDate>
+      <Order>50</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>21-1-1_č-1</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>21240</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>FAJGAROVÁ Tereza</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>21240</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:26:17.111227+02:00</CreationDate>
+      <Order>23</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>21-2-45_ž-1</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>-36890</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>HROMADA Ondřej</Name>
+      <Team>Pozděchov</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>36890</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:26:17.9745735+02:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>22-1-2_č-1</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>24750</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>BARCUCHOVÁ Karolína</Name>
+      <Team>Újezd</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>24750</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:27:52.8255723+02:00</CreationDate>
+      <Order>47</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>22-2-46_ž-1</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>23970</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>KONEČNÝ Kryštof</Name>
+      <Team>Zlín Malenovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>23970</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:27:53.2699863+02:00</CreationDate>
+      <Order>44</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>23-1-3_č-1</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>22700</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>MIKEŠKOVÁ Adéla</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>22700</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:30:41.6138122+02:00</CreationDate>
+      <Order>35</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>23-2-1_ž-1</StartNr>
+      <Category>Mladší dorostenci</Category>
+      <Try1>20840</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>JANKŮJ Martin</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>20840</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:30:42.7320218+02:00</CreationDate>
+      <Order>20</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>24-1-4_č-1</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>24520</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>RACKOVÁ Kamila</Name>
+      <Team>Kyselovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>24520</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:34:04.6426729+02:00</CreationDate>
+      <Order>46</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>24-2-2_ž-1</StartNr>
+      <Category>Mladší dorostenci</Category>
+      <Try1>30670</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>ONDRA Jakub</Name>
+      <Team>Pohořelice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>30670</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:34:05.105236+02:00</CreationDate>
+      <Order>54</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>25-1-5_č-1</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>18970</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>KUŽELOVÁ Denisa</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>18970</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:35:40.1148495+02:00</CreationDate>
+      <Order>8</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>26-1-6_č-1</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>22210</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>ŠTĚPÁNKOVÁ Kateřina</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>22210</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:36:44.2553192+02:00</CreationDate>
+      <Order>29</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>27-1-7_č-1</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>23060</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>BARTOŇOVÁ Monika</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>23060</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:38:47.4050207+02:00</CreationDate>
+      <Order>40</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>28-1-8_č-1</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>22780</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>LAJDOVÁ Veronika</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>22780</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:40:03.5300707+02:00</CreationDate>
+      <Order>38</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>29-1-9_č-1</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>21180</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>BLAHUŠOVÁ Aneta</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>21180</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:41:43.0863981+02:00</CreationDate>
+      <Order>22</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>30-1-21_č-2</StartNr>
+      <Category>Starší dorostenky</Category>
+      <Try1>22120</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>LIŠKOVÁ Justýna</Name>
+      <Team>Kyselovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>22120</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:44:18.2539032+02:00</CreationDate>
+      <Order>28</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>30-2-41_ž-2</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>22760</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>VYORAL Benedikt</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>22760</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:44:19.3935787+02:00</CreationDate>
+      <Order>37</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>31-1-22_č-2</StartNr>
+      <Category>Starší dorostenky</Category>
+      <Try1>-17370</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>KARPIELOVÁ Anna</Name>
+      <Team>Újezd</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>17370</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:45:28.1311544+02:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>31-2-42_ž-2</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>20340</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>DĚDIČ Jaroslav</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>20340</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:45:28.7766142+02:00</CreationDate>
+      <Order>15</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>32-1-23_č-2</StartNr>
+      <Category>Starší dorostenky</Category>
+      <Try1>19670</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>KONEČNÁ Alžběta</Name>
+      <Team>Zlín Malenovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>19670</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:47:35.9442786+02:00</CreationDate>
+      <Order>11</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>32-2-43_ž-2</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>-28710</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>VANČÍK Ondřej</Name>
+      <Team>Pohořelice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>28710</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:47:36.825522+02:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>33-1-24_č-2</StartNr>
+      <Category>Starší dorostenky</Category>
+      <Try1>18140</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>ŠŤASTNÁ Lucie</Name>
+      <Team>Šumice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>18140</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:49:12.5609868+02:00</CreationDate>
+      <Order>2</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>33-2-44_ž-2</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>20630</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>LAJDA Petr</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>20630</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:49:13.7104546+02:00</CreationDate>
+      <Order>18</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>34-1-1_č-2</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>20800</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>FAJGAROVÁ Tereza</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>20800</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:50:54.4640833+02:00</CreationDate>
+      <Order>19</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>34-2-45_ž-2</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>19530</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>HROMADA Ondřej</Name>
+      <Team>Pozděchov</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>19530</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:50:55.5217539+02:00</CreationDate>
+      <Order>10</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>35-1-2_č-2</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>29660</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>BARCUCHOVÁ Karolína</Name>
+      <Team>Újezd</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>29660</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:52:21.6824437+02:00</CreationDate>
+      <Order>52</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>35-2-46_ž-2</StartNr>
+      <Category>Střední dorostenci</Category>
+      <Try1>22280</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>KONEČNÝ Kryštof</Name>
+      <Team>Zlín Malenovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>22280</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:52:22.1925072+02:00</CreationDate>
+      <Order>31</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>36-1-3_č-2</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>22280</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>MIKEŠKOVÁ Adéla</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>22280</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:54:49.9266916+02:00</CreationDate>
+      <Order>32</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>36-2-1_ž-2</StartNr>
+      <Category>Mladší dorostenci</Category>
+      <Try1>19390</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>JANKŮJ Martin</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>19390</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:54:51.0978046+02:00</CreationDate>
+      <Order>9</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>37-1-4_č-2</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>26010</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>RACKOVÁ Kamila</Name>
+      <Team>Kyselovice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>26010</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:56:28.5611045+02:00</CreationDate>
+      <Order>49</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>37-2-2_ž-2</StartNr>
+      <Category>Mladší dorostenci</Category>
+      <Try1>25670</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 2</Line>
+      <Name>ONDRA Jakub</Name>
+      <Team>Pohořelice</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>25670</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:56:29.5569568+02:00</CreationDate>
+      <Order>48</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>38-1-5_č-2</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>-50180</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>KUŽELOVÁ Denisa</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>50180</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:58:33.7637107+02:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>39-1-6_č-2</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>21570</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>ŠTĚPÁNKOVÁ Kateřina</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>21570</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T12:59:57.9426949+02:00</CreationDate>
+      <Order>24</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>40-1-7_č-2</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>22400</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>BARTOŇOVÁ Monika</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>22400</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T13:02:29.2440491+02:00</CreationDate>
+      <Order>34</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>41-1-8_č-2</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>21840</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>LAJDOVÁ Veronika</Name>
+      <Team>Roštění</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>21840</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T13:03:37.5030583+02:00</CreationDate>
+      <Order>25</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>42-1-9_č-2</StartNr>
+      <Category>Mladší dorostenky</Category>
+      <Try1>22310</Try1>
+      <Try2>0</Try2>
+      <Line>Dráha 1</Line>
+      <Name>BLAHUŠOVÁ Aneta</Name>
+      <Team>Lhota</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>22310</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-06-01T13:05:35.191313+02:00</CreationDate>
+      <Order>33</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>42-konec</StartNr>
+      <Category>+++++</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name>+++++</Name>
+      <Team>+++++</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+  </Vysledky>
