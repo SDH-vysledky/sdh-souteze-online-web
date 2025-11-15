@@ -636,7 +636,7 @@
       <Try2>0</Try2>
       <Line />
       <Name />
-      <Team />
+      <Team>PR</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
