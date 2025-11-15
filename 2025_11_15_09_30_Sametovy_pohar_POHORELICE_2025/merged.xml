@@ -374,7 +374,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-11-15T10:50:17.8547987+01:00</CreationDate>
-      <Order>6</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -395,7 +395,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-11-15T10:59:11.2276345+01:00</CreationDate>
-      <Order>7</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -422,22 +422,22 @@
     <DataRecordClass>
       <StartNr>11</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>18710</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Mladeč</Name>
       <Team>OL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>17700</int>
+        <int>18710</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-11-15T11:07:57.6612741+01:00</CreationDate>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
