@@ -865,9 +865,9 @@
       <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Vlachova Lhota</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -882,13 +882,13 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>21</StartNr>
+      <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Podhradní Lhota</Name>
+      <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
