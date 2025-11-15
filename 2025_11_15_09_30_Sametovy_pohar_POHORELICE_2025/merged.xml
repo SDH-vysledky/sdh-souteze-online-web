@@ -106,7 +106,7 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>2</StartNr>
-      <Category />
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -127,7 +127,7 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>3</StartNr>
-      <Category />
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -148,7 +148,7 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>3</StartNr>
-      <Category />
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -168,8 +168,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>4</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -189,8 +189,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>5</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -210,8 +210,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>6</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -231,8 +231,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>7</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -252,8 +252,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>8</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -273,8 +273,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>9</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -294,8 +294,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>10</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -315,8 +315,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>11</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -336,8 +336,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>12</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -357,8 +357,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>13</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -378,8 +378,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>14</StartNr>
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -399,7 +399,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
+      <StartNr>15</StartNr>
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
