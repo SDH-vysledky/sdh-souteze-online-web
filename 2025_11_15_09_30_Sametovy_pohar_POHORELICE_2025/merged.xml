@@ -149,21 +149,21 @@
     <DataRecordClass>
       <StartNr>8</StartNr>
       <Category>dorci</Category>
-      <Try1>0</Try1>
+      <Try1>-50730</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Polichno A</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>17150</int>
+        <int>50730</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2025-11-15T12:35:17.7508185+01:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
