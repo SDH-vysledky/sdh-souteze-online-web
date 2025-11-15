@@ -164,7 +164,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-11-15T10:50:17.8547987+01:00</CreationDate>
-      <Order>5</Order>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -185,28 +185,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-11-15T10:59:11.2276345+01:00</CreationDate>
-      <Order>6</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>10</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>17070</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Valašská Polanka</Name>
+      <Team>VS</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>17070</int>
+        <int>16730</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-11-15T11:03:48.230841+01:00</CreationDate>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
