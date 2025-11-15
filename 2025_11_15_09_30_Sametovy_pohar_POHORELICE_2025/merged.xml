@@ -903,8 +903,29 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>22</StartNr>
+      <Category>muži</Category>
+      <Try1>122770</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Nevšová C</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>120400</int>
+        <int>122770</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2025-11-15T13:35:42.8877294+01:00</CreationDate>
+      <Order>17</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>23</StartNr>
+      <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -924,8 +945,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>24</StartNr>
+      <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -945,8 +966,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>25</StartNr>
+      <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -966,29 +987,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
-      <Try1>0</Try1>
-      <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
-      <Valid>false</Valid>
-      <Times>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>26</StartNr>
+      <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
