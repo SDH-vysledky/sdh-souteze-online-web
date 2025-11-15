@@ -794,7 +794,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2025-11-15T12:25:17.1365375+01:00</CreationDate>
-      <Order>17</Order>
+      <Order>18</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -947,22 +947,22 @@
     <DataRecordClass>
       <StartNr>24</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>28240</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Sazovice</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>28240</int>
+        <int>27410</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2025-11-15T13:58:27.7061059+01:00</CreationDate>
+      <Order>17</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
