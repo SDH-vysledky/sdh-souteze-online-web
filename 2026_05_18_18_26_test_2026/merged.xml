@@ -108,7 +108,7 @@
       <StartNr>2-3-6_č-1</StartNr>
       <Category>Mladší dívky do 11 let</Category>
       <Try1>5830</Try1>
-      <Try2>2140</Try2>
+      <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>SOUKUPOVÁ Viktorka</Name>
       <Team>Roštění</Team>
@@ -116,7 +116,7 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>2140</int>
+        <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
