@@ -2648,28 +2648,28 @@
   <DataRecordClass>
       <StartNr>1-1-81_č-1</StartNr>
       <Category>Nejmladší žáci do 8 let</Category>
-      <Try1>0</Try1>
+      <Try1>51970</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>VÍTEK Kryštof</Name>
       <Team>Provodov</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>51970</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:09:42.7335913+02:00</CreationDate>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>1-2-51_č-1</StartNr>
       <Category>Mladší dívky do 11 let</Category>
-      <Try1>0</Try1>
+      <Try1>19440</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>KLIMKOVÁ Viktorie</Name>
@@ -2677,20 +2677,20 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>19440</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:09:43.1831606+02:00</CreationDate>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>1-3-51_ž-1</StartNr>
       <Category>Mladší chlapci do 11 let</Category>
-      <Try1>0</Try1>
+      <Try1>19340</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>FAJGAR Lukáš</Name>
@@ -2699,13 +2699,13 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>0</int>
+        <int>19340</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:09:44.5931663+02:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
