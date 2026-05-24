@@ -626,7 +626,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T12:40:41.4382577+02:00</CreationDate>
-      <Order>23</Order>
+      <Order>24</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -836,7 +836,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T12:50:04.432597+02:00</CreationDate>
-      <Order>25</Order>
+      <Order>26</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -941,7 +941,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T12:55:25.2563179+02:00</CreationDate>
-      <Order>26</Order>
+      <Order>28</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -983,7 +983,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T12:57:03.3736022+02:00</CreationDate>
-      <Order>24</Order>
+      <Order>25</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1220,43 +1220,43 @@
     <DataRecordClass>
       <StartNr>34-1-35_č-1</StartNr>
       <Category>Střední dorostenky do 16 let</Category>
-      <Try1>0</Try1>
+      <Try1>34160</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>JINDŘIŠKOVÁ Viktorie</Name>
       <Team>Lhota</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>34160</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T13:08:25.5291775+02:00</CreationDate>
+      <Order>27</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>35-1-37_č-1</StartNr>
       <Category>Střední dorostenky do 16 let</Category>
-      <Try1>0</Try1>
+      <Try1>23280</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>LUTONSKÁ Eliška</Name>
       <Team>Vizovice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>23280</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T13:10:46.647283+02:00</CreationDate>
+      <Order>23</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
