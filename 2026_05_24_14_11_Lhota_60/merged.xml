@@ -2663,7 +2663,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:09:42.7335913+02:00</CreationDate>
-      <Order>18</Order>
+      <Order>21</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2684,7 +2684,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:09:43.1831606+02:00</CreationDate>
-      <Order>8</Order>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2705,7 +2705,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:09:44.5931663+02:00</CreationDate>
-      <Order>7</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2747,7 +2747,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:11:10.188849+02:00</CreationDate>
-      <Order>6</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2768,7 +2768,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:11:10.8150002+02:00</CreationDate>
-      <Order>2</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2789,7 +2789,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:12:58.3201249+02:00</CreationDate>
-      <Order>12</Order>
+      <Order>14</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2810,7 +2810,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:12:59.0260883+02:00</CreationDate>
-      <Order>17</Order>
+      <Order>20</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2852,7 +2852,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:14:06.6821956+02:00</CreationDate>
-      <Order>15</Order>
+      <Order>18</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2873,7 +2873,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:14:07.4935627+02:00</CreationDate>
-      <Order>14</Order>
+      <Order>17</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2894,7 +2894,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:14:08.1236425+02:00</CreationDate>
-      <Order>9</Order>
+      <Order>11</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2915,7 +2915,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:16:20.0321947+02:00</CreationDate>
-      <Order>13</Order>
+      <Order>15</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2936,7 +2936,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:16:20.5979517+02:00</CreationDate>
-      <Order>1</Order>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2978,7 +2978,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:17:47.2987588+02:00</CreationDate>
-      <Order>11</Order>
+      <Order>13</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2999,7 +2999,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:17:48.0559227+02:00</CreationDate>
-      <Order>4</Order>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3020,7 +3020,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:17:49.3233972+02:00</CreationDate>
-      <Order>5</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3041,7 +3041,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:19:48.4861326+02:00</CreationDate>
-      <Order>16</Order>
+      <Order>19</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3062,7 +3062,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:19:49.6840495+02:00</CreationDate>
-      <Order>3</Order>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3083,34 +3083,34 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:19:51.0656488+02:00</CreationDate>
-      <Order>10</Order>
+      <Order>12</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>8-1-88_č-1</StartNr>
       <Category>Nejmladší žáci do 8 let</Category>
-      <Try1>0</Try1>
+      <Try1>26040</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>KALIVODOVÁ Anna Lotty</Name>
       <Team>Zádveřice</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>26040</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:21:01.8828222+02:00</CreationDate>
+      <Order>16</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>8-2-58_č-1</StartNr>
       <Category>Mladší dívky do 11 let</Category>
-      <Try1>0</Try1>
+      <Try1>16760</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>ŠŮSTKOVÁ Barbora</Name>
@@ -3118,20 +3118,20 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>16760</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:21:02.3609769+02:00</CreationDate>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>8-3-58_ž-1</StartNr>
       <Category>Mladší chlapci do 11 let</Category>
-      <Try1>0</Try1>
+      <Try1>14330</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>ČALA Robert</Name>
@@ -3140,13 +3140,13 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>0</int>
+        <int>14330</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:21:02.8636861+02:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
