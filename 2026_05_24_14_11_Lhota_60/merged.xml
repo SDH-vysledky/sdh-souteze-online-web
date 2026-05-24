@@ -2663,7 +2663,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:09:42.7335913+02:00</CreationDate>
-      <Order>45</Order>
+      <Order>46</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2810,7 +2810,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:12:59.0260883+02:00</CreationDate>
-      <Order>43</Order>
+      <Order>44</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2852,7 +2852,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:14:06.6821956+02:00</CreationDate>
-      <Order>38</Order>
+      <Order>39</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2873,7 +2873,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:14:07.4935627+02:00</CreationDate>
-      <Order>36</Order>
+      <Order>37</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3041,7 +3041,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:19:48.4861326+02:00</CreationDate>
-      <Order>41</Order>
+      <Order>42</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3104,7 +3104,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:21:01.8828222+02:00</CreationDate>
-      <Order>35</Order>
+      <Order>36</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3167,7 +3167,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:22:39.8582859+02:00</CreationDate>
-      <Order>44</Order>
+      <Order>45</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3272,7 +3272,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:24:53.4410418+02:00</CreationDate>
-      <Order>47</Order>
+      <Order>48</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3293,7 +3293,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:27:19.0472581+02:00</CreationDate>
-      <Order>46</Order>
+      <Order>47</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3314,7 +3314,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:27:19.5266299+02:00</CreationDate>
-      <Order>39</Order>
+      <Order>40</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3419,7 +3419,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:29:38.5935021+02:00</CreationDate>
-      <Order>40</Order>
+      <Order>41</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3545,7 +3545,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:32:05.2961129+02:00</CreationDate>
-      <Order>42</Order>
+      <Order>43</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3671,7 +3671,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:35:53.9205496+02:00</CreationDate>
-      <Order>37</Order>
+      <Order>38</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3719,7 +3719,7 @@
     <DataRecordClass>
       <StartNr>20-2-70_č-1</StartNr>
       <Category>Mladší dívky do 11 let</Category>
-      <Try1>0</Try1>
+      <Try1>25560</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>BÁRTÍKOVÁ Nikola</Name>
@@ -3727,20 +3727,20 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>25560</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:37:53.1872585+02:00</CreationDate>
+      <Order>35</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>20-3-70_ž-1</StartNr>
       <Category>Mladší chlapci do 11 let</Category>
-      <Try1>0</Try1>
+      <Try1>-29610</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>NEVAŘIL Matyáš</Name>
@@ -3749,12 +3749,12 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>0</int>
+        <int>29610</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2026-05-24T16:37:53.8993945+02:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
