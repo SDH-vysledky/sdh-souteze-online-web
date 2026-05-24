@@ -584,7 +584,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T12:39:18.6758354+02:00</CreationDate>
-      <Order>8</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -626,7 +626,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T12:40:41.4382577+02:00</CreationDate>
-      <Order>9</Order>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -800,28 +800,28 @@
     <DataRecordClass>
       <StartNr>23-1-13_č-1</StartNr>
       <Category>Střední dorostenky do 16 let</Category>
-      <Try1>0</Try1>
+      <Try1>21880</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>PŘIKRYLOVÁ Anna Marie</Name>
       <Team>Lutonina</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>21880</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T12:50:03.7590807+02:00</CreationDate>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>23-2-14_č-1</StartNr>
       <Category>Mladší dorostenky do 14 let</Category>
-      <Try1>0</Try1>
+      <Try1>31990</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>MACHOVÁ Jessica</Name>
@@ -829,14 +829,14 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>31990</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T12:50:04.432597+02:00</CreationDate>
+      <Order>11</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
