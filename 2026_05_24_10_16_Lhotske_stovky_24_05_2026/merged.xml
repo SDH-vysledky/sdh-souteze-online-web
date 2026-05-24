@@ -44,28 +44,28 @@
     <DataRecordClass>
       <StartNr>2-1-3_ž-1</StartNr>
       <Category>Střední dorostenci do 16 let</Category>
-      <Try1>0</Try1>
+      <Try1>25060</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>KAŠÍK Jan</Name>
       <Team>Lutonina</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>25060</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T11:23:01.1111265+02:00</CreationDate>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>2-2-4_ž-1</StartNr>
       <Category>Starší dorostenci do 18 let</Category>
-      <Try1>0</Try1>
+      <Try1>21160</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>KLIMEK Matěj</Name>
@@ -73,35 +73,35 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>21160</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T11:23:03.0089511+02:00</CreationDate>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>3-1-5_ž-1</StartNr>
       <Category>Střední dorostenci do 16 let</Category>
-      <Try1>0</Try1>
+      <Try1>25060</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>SVĚTLÍK Ondřej</Name>
       <Team>Chrastěšov</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>25060</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T11:22:49.5984413+02:00</CreationDate>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
