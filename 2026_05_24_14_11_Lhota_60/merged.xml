@@ -2,28 +2,28 @@
 <Vysledky><DataRecordClass>
       <StartNr>1-1-21_č-1</StartNr>
       <Category>Starší dívky do 13 let</Category>
-      <Try1>0</Try1>
+      <Try1>15540</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>TONKOVIČOVÁ Julie</Name>
       <Team>Horní Lhota</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>15540</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T14:37:50.108+02:00</CreationDate>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>1-2-1_č-1</StartNr>
       <Category>Nejstarší dívky do 15 let</Category>
-      <Try1>0</Try1>
+      <Try1>14200</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>FAJGAROVÁ Tereza</Name>
@@ -31,20 +31,20 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>14200</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T14:37:50.8963402+02:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>1-3-1_ž-1</StartNr>
       <Category>Nejstarší chlapci do 15 let</Category>
-      <Try1>0</Try1>
+      <Try1>20010</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>BĚLÍČEK Vlastimil</Name>
@@ -53,13 +53,13 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>0</int>
+        <int>20010</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T14:37:51.6365836+02:00</CreationDate>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2478,7 +2478,7 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr>46-3-11_ž_2</StartNr>
+      <StartNr>48-3-11_ž_2</StartNr>
       <Category>Nejstarší chlapci do 15_let</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
