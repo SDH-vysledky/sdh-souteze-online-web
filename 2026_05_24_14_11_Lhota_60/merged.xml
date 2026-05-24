@@ -2663,7 +2663,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:09:42.7335913+02:00</CreationDate>
-      <Order>5</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2774,28 +2774,28 @@
     <DataRecordClass>
       <StartNr>3-1-83_č-1</StartNr>
       <Category>Nejmladší žáci do 8 let</Category>
-      <Try1>0</Try1>
+      <Try1>22910</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>SOUKUP Filip</Name>
       <Team>Šarovy</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>22910</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:12:58.3201249+02:00</CreationDate>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>3-2-53_č-1</StartNr>
       <Category>Mladší dívky do 11 let</Category>
-      <Try1>0</Try1>
+      <Try1>40980</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>TRČKOVÁ Stela</Name>
@@ -2803,20 +2803,20 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>40980</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:12:59.0260883+02:00</CreationDate>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>3-3-53_ž-1</StartNr>
       <Category>Mladší chlapci do 11 let</Category>
-      <Try1>0</Try1>
+      <Try1>-23730</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>LEBÁNEK Matyas</Name>
@@ -2825,12 +2825,12 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>0</int>
+        <int>23730</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2026-05-24T16:13:00.0528747+02:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
