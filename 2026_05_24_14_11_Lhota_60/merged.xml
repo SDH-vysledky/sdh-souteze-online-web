@@ -2663,7 +2663,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:09:42.7335913+02:00</CreationDate>
-      <Order>36</Order>
+      <Order>38</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2789,7 +2789,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:12:58.3201249+02:00</CreationDate>
-      <Order>24</Order>
+      <Order>25</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2810,7 +2810,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:12:59.0260883+02:00</CreationDate>
-      <Order>34</Order>
+      <Order>36</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2852,7 +2852,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:14:06.6821956+02:00</CreationDate>
-      <Order>30</Order>
+      <Order>31</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2873,7 +2873,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:14:07.4935627+02:00</CreationDate>
-      <Order>29</Order>
+      <Order>30</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2915,7 +2915,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:16:20.0321947+02:00</CreationDate>
-      <Order>25</Order>
+      <Order>26</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2978,7 +2978,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:17:47.2987588+02:00</CreationDate>
-      <Order>21</Order>
+      <Order>22</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3041,7 +3041,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:19:48.4861326+02:00</CreationDate>
-      <Order>33</Order>
+      <Order>34</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3104,7 +3104,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:21:01.8828222+02:00</CreationDate>
-      <Order>28</Order>
+      <Order>29</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3167,7 +3167,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:22:39.8582859+02:00</CreationDate>
-      <Order>35</Order>
+      <Order>37</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3188,7 +3188,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:22:41.0631874+02:00</CreationDate>
-      <Order>26</Order>
+      <Order>27</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3272,7 +3272,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:24:53.4410418+02:00</CreationDate>
-      <Order>38</Order>
+      <Order>40</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3293,7 +3293,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:27:19.0472581+02:00</CreationDate>
-      <Order>37</Order>
+      <Order>39</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3314,7 +3314,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:27:19.5266299+02:00</CreationDate>
-      <Order>31</Order>
+      <Order>32</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3356,7 +3356,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:28:17.301234+02:00</CreationDate>
-      <Order>22</Order>
+      <Order>23</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3419,7 +3419,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:29:38.5935021+02:00</CreationDate>
-      <Order>32</Order>
+      <Order>33</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3482,7 +3482,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:30:53.1143523+02:00</CreationDate>
-      <Order>27</Order>
+      <Order>28</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3503,13 +3503,13 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:30:53.7221565+02:00</CreationDate>
-      <Order>23</Order>
+      <Order>24</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>15-2-65_č-1</StartNr>
       <Category>Mladší dívky do 11 let</Category>
-      <Try1>0</Try1>
+      <Try1>21430</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>AMBRUZOVÁ Johana</Name>
@@ -3517,20 +3517,20 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>21430</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:32:04.6652142+02:00</CreationDate>
+      <Order>21</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>15-3-65_ž-1</StartNr>
       <Category>Mladší chlapci do 11 let</Category>
-      <Try1>0</Try1>
+      <Try1>36930</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>ŠEVČÍK Patrik</Name>
@@ -3539,13 +3539,13 @@
       <Times>
         <int>0</int>
         <int>0</int>
-        <int>0</int>
+        <int>36930</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T16:32:05.2961129+02:00</CreationDate>
+      <Order>35</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
