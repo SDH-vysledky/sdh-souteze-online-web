@@ -584,7 +584,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T12:39:18.6758354+02:00</CreationDate>
-      <Order>3</Order>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -605,7 +605,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T12:39:19.2665183+02:00</CreationDate>
-      <Order>2</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -626,7 +626,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T12:40:41.4382577+02:00</CreationDate>
-      <Order>4</Order>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -653,28 +653,28 @@
     <DataRecordClass>
       <StartNr>19-1-5_č-1</StartNr>
       <Category>Střední dorostenky do 16 let</Category>
-      <Try1>0</Try1>
+      <Try1>19600</Try1>
       <Try2>0</Try2>
       <Line>Dráha 1</Line>
       <Name>BAJZOVÁ Barbora</Name>
       <Team>Valašská Polanka</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>19600</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T12:42:26.0561478+02:00</CreationDate>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>19-2-6_č-1</StartNr>
       <Category>Mladší dorostenky do 14 let</Category>
-      <Try1>0</Try1>
+      <Try1>21040</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>ČÍŽOVÁ Karolína</Name>
@@ -682,14 +682,14 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>0</int>
+        <int>21040</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-24T12:42:26.7310416+02:00</CreationDate>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
