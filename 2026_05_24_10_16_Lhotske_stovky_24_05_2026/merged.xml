@@ -1094,7 +1094,7 @@
     <DataRecordClass>
       <StartNr>30-2-28_č-1</StartNr>
       <Category>Starší dorostenky do 18 let</Category>
-      <Try1>-25490</Try1>
+      <Try1>21640</Try1>
       <Try2>0</Try2>
       <Line>Dráha 2</Line>
       <Name>LIŠKOVÁ Justýna</Name>
@@ -1102,7 +1102,7 @@
       <Valid>false</Valid>
       <Times>
         <int>0</int>
-        <int>25490</int>
+        <int>21640</int>
         <int>0</int>
         <int>0</int>
       </Times>
