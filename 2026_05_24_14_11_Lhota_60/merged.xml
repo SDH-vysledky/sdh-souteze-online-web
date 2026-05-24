@@ -2663,7 +2663,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:09:42.7335913+02:00</CreationDate>
-      <Order>78</Order>
+      <Order>77</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2789,7 +2789,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:12:58.3201249+02:00</CreationDate>
-      <Order>49</Order>
+      <Order>50</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2810,7 +2810,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:12:59.0260883+02:00</CreationDate>
-      <Order>74</Order>
+      <Order>73</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3167,7 +3167,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:22:39.8582859+02:00</CreationDate>
-      <Order>76</Order>
+      <Order>75</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3272,7 +3272,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:24:53.4410418+02:00</CreationDate>
-      <Order>80</Order>
+      <Order>79</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3293,7 +3293,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:27:19.0472581+02:00</CreationDate>
-      <Order>79</Order>
+      <Order>78</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3545,7 +3545,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:32:05.2961129+02:00</CreationDate>
-      <Order>72</Order>
+      <Order>71</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3818,7 +3818,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:40:34.2882537+02:00</CreationDate>
-      <Order>75</Order>
+      <Order>74</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3923,7 +3923,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:45:55.5338223+02:00</CreationDate>
-      <Order>77</Order>
+      <Order>76</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3986,7 +3986,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:47:15.4925393+02:00</CreationDate>
-      <Order>73</Order>
+      <Order>72</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -4175,7 +4175,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:53:03.8045233+02:00</CreationDate>
-      <Order>81</Order>
+      <Order>80</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -4448,7 +4448,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:58:33.9516136+02:00</CreationDate>
-      <Order>50</Order>
+      <Order>49</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -4517,7 +4517,7 @@
     <DataRecordClass>
       <StartNr>35-3-60_ž-2</StartNr>
       <Category>Mladší chlapci do 11 let</Category>
-      <Try1>36770</Try1>
+      <Try1>-36770</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>POPELKA Vít</Name>
@@ -4532,7 +4532,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T17:00:07.7915887+02:00</CreationDate>
-      <Order>71</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
