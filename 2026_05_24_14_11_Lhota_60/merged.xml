@@ -2663,7 +2663,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:09:42.7335913+02:00</CreationDate>
-      <Order>40</Order>
+      <Order>39</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -2810,7 +2810,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:12:59.0260883+02:00</CreationDate>
-      <Order>38</Order>
+      <Order>37</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3167,7 +3167,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:22:39.8582859+02:00</CreationDate>
-      <Order>39</Order>
+      <Order>38</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3272,7 +3272,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:24:53.4410418+02:00</CreationDate>
-      <Order>42</Order>
+      <Order>41</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3293,7 +3293,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:27:19.0472581+02:00</CreationDate>
-      <Order>41</Order>
+      <Order>40</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3545,7 +3545,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:32:05.2961129+02:00</CreationDate>
-      <Order>37</Order>
+      <Order>36</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -3572,7 +3572,7 @@
     <DataRecordClass>
       <StartNr>16-3-66_ž-1</StartNr>
       <Category>Mladší chlapci do 11 let</Category>
-      <Try1>35100</Try1>
+      <Try1>-35100</Try1>
       <Try2>0</Try2>
       <Line>Dráha 3</Line>
       <Name>VITA Maxmilián</Name>
@@ -3587,7 +3587,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-24T16:33:38.1767772+02:00</CreationDate>
-      <Order>36</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
