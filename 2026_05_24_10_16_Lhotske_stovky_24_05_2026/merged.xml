@@ -30,7 +30,7 @@
       <Team>Pozděchov</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
+        <int>-99,9</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
