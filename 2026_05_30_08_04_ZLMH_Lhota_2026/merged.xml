@@ -185,7 +185,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-30T10:15:01.5229682+02:00</CreationDate>
-      <Order>19</Order>
+      <Order>20</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -248,7 +248,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-30T10:37:28.2906897+02:00</CreationDate>
-      <Order>21</Order>
+      <Order>22</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -269,7 +269,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-30T10:52:00.2519736+02:00</CreationDate>
-      <Order>18</Order>
+      <Order>19</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -395,7 +395,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-30T11:41:20.7860714+02:00</CreationDate>
-      <Order>20</Order>
+      <Order>21</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -508,7 +508,7 @@
       <Category>mladší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
+      <Line>Útok (1+2)</Line>
       <Name>Lhota B</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
@@ -527,22 +527,22 @@
     <DataRecordClass>
       <StartNr>26</StartNr>
       <Category>mladší</Category>
-      <Try1>0</Try1>
+      <Try1>30200</Try1>
       <Try2>0</Try2>
-      <Line />
+      <Line>Útok (1+2)</Line>
       <Name>Doubravy</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>30200</int>
+        <int>30080</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-30T12:29:50.0673257+02:00</CreationDate>
+      <Order>18</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -550,9 +550,9 @@
       <Category>mladší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
+      <Line>Útok (1+2)</Line>
       <Name>Kaňovice</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
