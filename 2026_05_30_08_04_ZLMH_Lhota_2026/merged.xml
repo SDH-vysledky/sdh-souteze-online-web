@@ -509,8 +509,8 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
-      <Name />
-      <Team />
+      <Name>Lhota B</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -530,8 +530,8 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
-      <Name />
-      <Team />
+      <Name>Doubravy</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -551,7 +551,7 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
-      <Name />
+      <Name>Kaňovice</Name>
       <Team />
       <Valid>false</Valid>
       <Times>
