@@ -1029,27 +1029,6 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr>20</StartNr>
-      <Category>starší</Category>
-      <Try1>11520</Try1>
-      <Try2>0</Try2>
-      <Line>Útok (1+2)</Line>
-      <Name>aaa</Name>
-      <Team>ZL</Team>
-      <Valid>false</Valid>
-      <Times>
-        <int>9250</int>
-        <int>11520</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>2026-05-30T08:05:32.3527122+02:00</CreationDate>
-      <Order>1</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
       <StartNr />
       <Category />
       <Try1>0</Try1>
