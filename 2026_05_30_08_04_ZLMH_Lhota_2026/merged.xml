@@ -737,22 +737,22 @@
     <DataRecordClass>
       <StartNr>2</StartNr>
       <Category>starší</Category>
-      <Try1>0</Try1>
+      <Try1>29790</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Hostišová</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>28370</int>
+        <int>29790</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-30T09:41:00.4706761+02:00</CreationDate>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -762,7 +762,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Újezd</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -781,9 +781,9 @@
       <Category>starší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Pitín</Name>
+      <Team>UH</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
