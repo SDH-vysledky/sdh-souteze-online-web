@@ -758,22 +758,22 @@
     <DataRecordClass>
       <StartNr>3</StartNr>
       <Category>starší</Category>
-      <Try1>0</Try1>
+      <Try1>33110</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Újezd</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>30340</int>
+        <int>33110</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-05-30T09:59:37.8625582+02:00</CreationDate>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -802,9 +802,9 @@
       <Category>starší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Trnava A</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -823,9 +823,9 @@
       <Category>starší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Trnava Q</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -844,8 +844,8 @@
       <Category>starší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
+      <Line>Útok (1+2)</Line>
+      <Name>Pozlovice</Name>
       <Team />
       <Valid>false</Valid>
       <Times>
@@ -865,9 +865,9 @@
       <Category>starší</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Šarovy - Salaš</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
