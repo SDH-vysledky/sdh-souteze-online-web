@@ -185,7 +185,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-30T10:15:01.5229682+02:00</CreationDate>
-      <Order>20</Order>
+      <Order>21</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -248,7 +248,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-30T10:37:28.2906897+02:00</CreationDate>
-      <Order>22</Order>
+      <Order>23</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -269,7 +269,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-30T10:52:00.2519736+02:00</CreationDate>
-      <Order>19</Order>
+      <Order>20</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -395,7 +395,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-30T11:41:20.7860714+02:00</CreationDate>
-      <Order>21</Order>
+      <Order>22</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -506,7 +506,7 @@
     <DataRecordClass>
       <StartNr>25</StartNr>
       <Category>mladší</Category>
-      <Try1>-30390</Try1>
+      <Try1>30390</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Lhota B</Name>
@@ -521,7 +521,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-05-30T12:45:02.0482043+02:00</CreationDate>
-      <Order>0</Order>
+      <Order>19</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
