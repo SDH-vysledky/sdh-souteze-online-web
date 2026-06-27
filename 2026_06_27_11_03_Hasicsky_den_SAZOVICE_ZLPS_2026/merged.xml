@@ -881,4 +881,361 @@
       <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
+  <DataRecordClass>
+      <StartNr>1</StartNr>
+      <Category>ženy</Category>
+      <Try1>15960</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Roštění</Name>
+      <Team>KM</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>15960</int>
+        <int>15560</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2026-06-27T14:37:30.0579921+02:00</CreationDate>
+      <Order>1</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>2</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>3</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>4</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>5</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>6</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>7</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>8</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>9</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>10</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>11</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>12</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>13</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>14</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>15</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>16</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>17</StartNr>
+      <Category>ženy</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line />
+      <Name />
+      <Team />
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
   </Vysledky>
