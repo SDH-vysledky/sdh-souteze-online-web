@@ -441,8 +441,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>3</StartNr>
+      <Category>muži 35let</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -462,8 +462,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>4</StartNr>
+      <Category>muži 35let</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -483,8 +483,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>5</StartNr>
+      <Category>muži 35let</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -504,8 +504,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>6</StartNr>
+      <Category>muži 35let</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
