@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-27T12:04:43.7169584+02:00</CreationDate>
-      <Order>9</Order>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -101,7 +101,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-27T12:25:44.7457688+02:00</CreationDate>
-      <Order>10</Order>
+      <Order>11</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -122,7 +122,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-27T12:29:41.1733581+02:00</CreationDate>
-      <Order>11</Order>
+      <Order>12</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -227,7 +227,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-27T12:53:45.4871405+02:00</CreationDate>
-      <Order>8</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -252,27 +252,6 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr>22</StartNr>
-      <Category>muži</Category>
-      <Try1>0</Try1>
-      <Try2>0</Try2>
-      <Line>Útok (1+2)</Line>
-      <Name>Lhota B</Name>
-      <Team>ZL</Team>
-      <Valid>false</Valid>
-      <Times>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
       <StartNr>13</StartNr>
       <Category>muži</Category>
       <Try1>-24150</Try1>
@@ -294,23 +273,44 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
+      <StartNr>14</StartNr>
+      <Category>muži</Category>
+      <Try1>17300</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Kněžpole A</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>17300</int>
+        <int>16840</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>2026-06-27T13:09:46.4615463+02:00</CreationDate>
+      <Order>3</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
       <StartNr>15</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>-52070</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Veselá</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>52070</int>
+        <int>17440</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2026-06-27T13:14:35.8980252+02:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
@@ -338,22 +338,22 @@
     <DataRecordClass>
       <StartNr>17</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>20080</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Mladcová</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>20080</int>
+        <int>18820</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-06-27T13:18:47.4973672+02:00</CreationDate>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -420,24 +420,24 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr>14</StartNr>
+      <StartNr>23</StartNr>
       <Category>muži</Category>
-      <Try1>17300</Try1>
+      <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name>Kněžpole A</Name>
+      <Name>Lhota B</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>17300</int>
-        <int>16840</int>
+        <int>0</int>
+        <int>0</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>2026-06-27T13:09:46.4615463+02:00</CreationDate>
-      <Order>3</Order>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
