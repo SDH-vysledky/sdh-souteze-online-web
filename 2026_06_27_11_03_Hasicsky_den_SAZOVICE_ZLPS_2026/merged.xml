@@ -290,7 +290,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-27T16:01:40.0845154+02:00</CreationDate>
-      <Order>4</Order>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -353,28 +353,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-27T16:16:28.5202534+02:00</CreationDate>
-      <Order>5</Order>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>6</StartNr>
       <Category>dorky</Category>
-      <Try1>0</Try1>
+      <Try1>23120</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
+      <Name>Nová Dědina</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>23120</int>
+        <int>22850</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-06-27T17:31:58.8663181+02:00</CreationDate>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -382,9 +382,9 @@
       <Category>dorky</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Loučka</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
