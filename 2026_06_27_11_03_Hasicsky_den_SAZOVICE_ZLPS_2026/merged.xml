@@ -44,22 +44,22 @@
     <DataRecordClass>
       <StartNr>3</StartNr>
       <Category>dorci</Category>
-      <Try1>0</Try1>
+      <Try1>31520</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Pitín</Name>
       <Team>UH</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>28630</int>
+        <int>31520</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-06-27T15:28:46.4942665+02:00</CreationDate>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
