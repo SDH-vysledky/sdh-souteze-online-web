@@ -44,21 +44,21 @@
     <DataRecordClass>
       <StartNr>3</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>-43920</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Racková</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>41850</int>
+        <int>43920</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2026-06-27T12:15:28.5861359+02:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
