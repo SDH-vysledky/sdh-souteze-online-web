@@ -1109,7 +1109,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-27T14:56:58.7622648+02:00</CreationDate>
-      <Order>8</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1193,7 +1193,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-27T15:17:49.0761109+02:00</CreationDate>
-      <Order>7</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1241,22 +1241,22 @@
     <DataRecordClass>
       <StartNr>10</StartNr>
       <Category>ženy</Category>
-      <Try1>0</Try1>
+      <Try1>25650</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Hrobice</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>25070</int>
+        <int>25650</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-06-27T16:21:30.5586429+02:00</CreationDate>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
