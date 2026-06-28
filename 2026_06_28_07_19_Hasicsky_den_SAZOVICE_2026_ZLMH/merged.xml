@@ -758,22 +758,22 @@
     <DataRecordClass>
       <StartNr>16</StartNr>
       <Category>starší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>23140</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Žeranovice</Name>
       <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>22810</int>
+        <int>23140</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-06-28T10:14:09.004696+02:00</CreationDate>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
