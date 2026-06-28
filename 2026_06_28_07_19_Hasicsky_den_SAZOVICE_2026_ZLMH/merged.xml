@@ -269,7 +269,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T11:19:27.4666741+02:00</CreationDate>
-      <Order>18</Order>
+      <Order>19</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -290,7 +290,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T11:36:16.6271729+02:00</CreationDate>
-      <Order>19</Order>
+      <Order>20</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -317,22 +317,22 @@
     <DataRecordClass>
       <StartNr>17</StartNr>
       <Category>mladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>32650</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Mysločovice</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>19110</int>
+        <int>32650</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-06-28T11:52:57.6768756+02:00</CreationDate>
+      <Order>18</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -416,7 +416,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T09:30:01.6141578+02:00</CreationDate>
-      <Order>20</Order>
+      <Order>21</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
