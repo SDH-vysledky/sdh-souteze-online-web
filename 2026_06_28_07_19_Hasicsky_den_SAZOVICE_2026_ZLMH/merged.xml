@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T08:10:48.0993144+02:00</CreationDate>
-      <Order>7</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -38,7 +38,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T08:35:04.9474927+02:00</CreationDate>
-      <Order>2</Order>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -59,7 +59,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T08:40:02.6736118+02:00</CreationDate>
-      <Order>4</Order>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -80,7 +80,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T08:45:03.8198625+02:00</CreationDate>
-      <Order>3</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -128,22 +128,22 @@
     <DataRecordClass>
       <StartNr>8</StartNr>
       <Category>mladší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>18050</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Lhotka A</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>18050</int>
+        <int>15950</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-06-28T10:19:21.2816029+02:00</CreationDate>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -374,7 +374,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T09:12:35.4087627+02:00</CreationDate>
-      <Order>5</Order>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -395,7 +395,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T08:56:30.4397931+02:00</CreationDate>
-      <Order>8</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -416,7 +416,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T09:30:01.6141578+02:00</CreationDate>
-      <Order>9</Order>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -437,7 +437,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T09:57:57.7151767+02:00</CreationDate>
-      <Order>6</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
