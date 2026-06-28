@@ -815,7 +815,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T10:39:43.7720056+02:00</CreationDate>
-      <Order>18</Order>
+      <Order>19</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -836,7 +836,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T10:14:09.004696+02:00</CreationDate>
-      <Order>16</Order>
+      <Order>17</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -857,7 +857,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T11:13:46.8314879+02:00</CreationDate>
-      <Order>15</Order>
+      <Order>16</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -878,7 +878,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T11:30:30.4567943+02:00</CreationDate>
-      <Order>17</Order>
+      <Order>18</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -962,7 +962,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-06-28T12:04:23.6203594+02:00</CreationDate>
-      <Order>14</Order>
+      <Order>15</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1052,22 +1052,22 @@
     <DataRecordClass>
       <StartNr>30</StartNr>
       <Category>starší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>20440</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Trnava Q</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>20440</int>
+        <int>15680</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-06-28T12:44:32.6369037+02:00</CreationDate>
+      <Order>14</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
   </Vysledky>
