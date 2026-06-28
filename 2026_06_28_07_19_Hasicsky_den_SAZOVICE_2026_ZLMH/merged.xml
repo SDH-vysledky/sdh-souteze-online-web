@@ -401,22 +401,22 @@
   <DataRecordClass>
       <StartNr>1</StartNr>
       <Category>přípravka</Category>
-      <Try1>0</Try1>
+      <Try1>33020</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Bohuslavice u Zlína</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>33020</int>
+        <int>32830</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-06-28T08:17:53.2071689+02:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
