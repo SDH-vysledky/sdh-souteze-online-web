@@ -695,22 +695,22 @@
     <DataRecordClass>
       <StartNr>8</StartNr>
       <Category>starší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>18970</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Rymice</Name>
       <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>18970</int>
+        <int>14980</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-06-28T09:34:47.2797166+02:00</CreationDate>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -804,7 +804,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Karolín</Name>
-      <Team />
+      <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -825,7 +825,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Újezd</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -846,7 +846,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Lechotice</Name>
-      <Team />
+      <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -867,7 +867,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Žeranovice</Name>
-      <Team>ZL</Team>
+      <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -888,7 +888,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Štípa</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -909,7 +909,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Hostišová</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -930,7 +930,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Štítná</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -951,7 +951,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Louky</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -972,7 +972,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Loučka</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -993,7 +993,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Záhlinice</Name>
-      <Team />
+      <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -1014,7 +1014,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Rusava B</Name>
-      <Team />
+      <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -1035,7 +1035,7 @@
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Štítná</Name>
-      <Team />
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
