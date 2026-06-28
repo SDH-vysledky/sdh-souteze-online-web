@@ -861,27 +861,6 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr>19</StartNr>
-      <Category>starší žáci</Category>
-      <Try1>0</Try1>
-      <Try2>0</Try2>
-      <Line>Útok (1+2)</Line>
-      <Name>Štítná</Name>
-      <Team>ZL</Team>
-      <Valid>false</Valid>
-      <Times>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
       <StartNr>20</StartNr>
       <Category>starší žáci</Category>
       <Try1>39780</Try1>
@@ -1033,9 +1012,9 @@
       <Category>starší žáci</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Trnava A</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -1054,9 +1033,30 @@
       <Category>starší žáci</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Pozlovice</Name>
+      <Team>ZL</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>30</StartNr>
+      <Category>starší žáci</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Trnava Q</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
