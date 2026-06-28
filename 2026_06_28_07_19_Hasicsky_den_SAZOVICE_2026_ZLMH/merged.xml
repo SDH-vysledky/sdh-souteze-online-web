@@ -567,27 +567,6 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr>2</StartNr>
-      <Category>starší žáci</Category>
-      <Try1>0</Try1>
-      <Try2>0</Try2>
-      <Line>Útok (1+2)</Line>
-      <Name>Tečovice</Name>
-      <Team>ZL</Team>
-      <Valid>false</Valid>
-      <Times>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
       <StartNr>4</StartNr>
       <Category>starší žáci</Category>
       <Try1>15470</Try1>
@@ -672,44 +651,23 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr>10</StartNr>
-      <Category>starší žáci</Category>
-      <Try1>0</Try1>
-      <Try2>0</Try2>
-      <Line>Útok (1+2)</Line>
-      <Name>Tečovice</Name>
-      <Team>ZL</Team>
-      <Valid>false</Valid>
-      <Times>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
       <StartNr>11</StartNr>
       <Category>starší žáci</Category>
-      <Try1>0</Try1>
+      <Try1>-49000</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Záhlinice</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>42570</int>
+        <int>49000</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2026-06-28T10:03:54.8118958+02:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
@@ -910,27 +868,6 @@
       <Line>Útok (1+2)</Line>
       <Name>Loučka</Name>
       <Team>ZL</Team>
-      <Valid>false</Valid>
-      <Times>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </Times>
-      <Add1>0</Add1>
-      <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
-      <TextFormat>mss100</TextFormat>
-    </DataRecordClass>
-    <DataRecordClass>
-      <StartNr>22</StartNr>
-      <Category>starší žáci</Category>
-      <Try1>0</Try1>
-      <Try2>0</Try2>
-      <Line>Útok (1+2)</Line>
-      <Name>Záhlinice</Name>
-      <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
