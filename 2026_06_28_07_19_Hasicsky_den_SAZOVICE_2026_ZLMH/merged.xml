@@ -446,7 +446,7 @@
       <Try1>15140</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name>Štípa </Name>
+      <Name>Štípa A</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
@@ -463,12 +463,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>24</StartNr>
-      <Category />
+      <Category>mladší žáci</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Štípa B</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
