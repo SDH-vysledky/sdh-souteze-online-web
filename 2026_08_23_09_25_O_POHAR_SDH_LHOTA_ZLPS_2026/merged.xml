@@ -479,7 +479,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T13:53:09.3942222+02:00</CreationDate>
-      <Order>11</Order>
+      <Order>12</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -584,7 +584,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T14:16:25.2933787+02:00</CreationDate>
-      <Order>10</Order>
+      <Order>11</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -626,7 +626,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T14:28:23.1208751+02:00</CreationDate>
-      <Order>12</Order>
+      <Order>13</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -647,7 +647,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T14:33:26.042601+02:00</CreationDate>
-      <Order>13</Order>
+      <Order>14</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -731,7 +731,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T14:53:29.8809114+02:00</CreationDate>
-      <Order>14</Order>
+      <Order>15</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -758,22 +758,22 @@
     <DataRecordClass>
       <StartNr>17</StartNr>
       <Category>ženy</Category>
-      <Try1>0</Try1>
+      <Try1>20030</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Veselá</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>19690</int>
+        <int>20030</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-08-23T15:02:42.7981106+02:00</CreationDate>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
