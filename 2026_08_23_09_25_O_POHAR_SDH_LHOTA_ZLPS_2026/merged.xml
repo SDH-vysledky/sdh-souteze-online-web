@@ -1114,12 +1114,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>34</StartNr>
-      <Category />
+      <Category>DORCI</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Lhotka</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -1135,12 +1135,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>35</StartNr>
-      <Category />
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Žechovice- Paseky</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -1156,12 +1156,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>36</StartNr>
-      <Category />
+      <Category>DORCI</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Vlachova Lhota</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -1177,12 +1177,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>37</StartNr>
-      <Category />
+      <Category>dorky</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Hostišová</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -1198,12 +1198,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>38</StartNr>
-      <Category />
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Hostišová</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -1219,12 +1219,33 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>39</StartNr>
-      <Category />
+      <Category>M35</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Březolupy</Name>
+      <Team>UH</Team>
+      <Valid>false</Valid>
+      <Times>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Times>
+      <Add1>0</Add1>
+      <Add2>0</Add2>
+      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <Order>0</Order>
+      <TextFormat>mss100</TextFormat>
+    </DataRecordClass>
+    <DataRecordClass>
+      <StartNr>40</StartNr>
+      <Category>dorky</Category>
+      <Try1>0</Try1>
+      <Try2>0</Try2>
+      <Line>Útok (1+2)</Line>
+      <Name>Lhota B</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
