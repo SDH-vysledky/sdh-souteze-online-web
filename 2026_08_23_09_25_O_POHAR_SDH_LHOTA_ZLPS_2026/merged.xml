@@ -479,7 +479,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T13:53:09.3942222+02:00</CreationDate>
-      <Order>12</Order>
+      <Order>13</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -584,7 +584,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T14:16:25.2933787+02:00</CreationDate>
-      <Order>11</Order>
+      <Order>12</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -626,7 +626,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T14:28:23.1208751+02:00</CreationDate>
-      <Order>13</Order>
+      <Order>14</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -647,7 +647,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T14:33:26.042601+02:00</CreationDate>
-      <Order>14</Order>
+      <Order>15</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -689,7 +689,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T14:42:51.4550258+02:00</CreationDate>
-      <Order>9</Order>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -731,7 +731,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T14:53:29.8809114+02:00</CreationDate>
-      <Order>15</Order>
+      <Order>16</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -773,28 +773,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T15:02:42.7981106+02:00</CreationDate>
-      <Order>10</Order>
+      <Order>11</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>18</StartNr>
       <Category>dorky</Category>
-      <Try1>0</Try1>
+      <Try1>18870</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Nová Dědina</Name>
       <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>18870</int>
+        <int>17780</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-08-23T15:07:25.7227639+02:00</CreationDate>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -841,12 +841,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>21</StartNr>
-      <Category />
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Březolupy</Name>
+      <Team>UH</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -862,12 +862,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>22</StartNr>
-      <Category />
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Martinice</Name>
+      <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -883,12 +883,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>23</StartNr>
-      <Category />
+      <Category>M35</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Louky</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -904,12 +904,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>24</StartNr>
-      <Category />
+      <Category>dorky</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Šarovy</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -925,12 +925,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>25</StartNr>
-      <Category />
+      <Category>ženy</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Hrobice</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
