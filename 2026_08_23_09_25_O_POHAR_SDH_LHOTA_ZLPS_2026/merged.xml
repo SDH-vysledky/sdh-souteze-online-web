@@ -122,7 +122,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T12:04:21.5770742+02:00</CreationDate>
-      <Order>8</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -185,28 +185,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T12:14:35.5811543+02:00</CreationDate>
-      <Order>7</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>10</StartNr>
       <Category>m</Category>
-      <Try1>0</Try1>
+      <Try1>29110</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Racková</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>27910</int>
+        <int>29110</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-08-23T12:20:16.7172335+02:00</CreationDate>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
