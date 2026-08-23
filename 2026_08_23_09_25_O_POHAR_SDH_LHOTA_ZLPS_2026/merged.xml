@@ -316,12 +316,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>16</StartNr>
-      <Category />
+      <Category>m</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Vrbětice</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -361,7 +361,7 @@
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
+      <Line>Útok (1+2)</Line>
       <Name />
       <Team />
       <Valid>false</Valid>
@@ -382,7 +382,7 @@
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
+      <Line>Útok (1+2)</Line>
       <Name />
       <Team />
       <Valid>false</Valid>
@@ -403,7 +403,7 @@
       <Category />
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
+      <Line>Útok (1+2)</Line>
       <Name />
       <Team />
       <Valid>false</Valid>
