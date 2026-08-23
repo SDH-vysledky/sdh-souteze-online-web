@@ -2,22 +2,22 @@
 <Vysledky><DataRecordClass>
       <StartNr>1</StartNr>
       <Category>m</Category>
-      <Try1>0</Try1>
+      <Try1>18030</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Lhota A</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>17250</int>
+        <int>18030</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-08-23T11:39:00.9734171+02:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -47,7 +47,7 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name>Kněžpole</Name>
+      <Name>Kněžpole B</Name>
       <Team>UH</Team>
       <Valid>false</Valid>
       <Times>
@@ -68,8 +68,8 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Veselá</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -89,8 +89,8 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Bratřejov</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -110,8 +110,8 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Pitín</Name>
+      <Team>UH</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -131,8 +131,8 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Vřesovice</Name>
+      <Team>HO</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -152,8 +152,8 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Kněžpole A</Name>
+      <Team>UH</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -173,8 +173,8 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Sazovice</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -194,8 +194,8 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Racková</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -211,12 +211,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>11</StartNr>
-      <Category />
+      <Category>m</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Mirošov C</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -232,12 +232,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>12</StartNr>
-      <Category />
+      <Category>m</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Vrbka</Name>
+      <Team>KM</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -253,7 +253,7 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>13</StartNr>
-      <Category />
+      <Category>m</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -274,7 +274,7 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>14</StartNr>
-      <Category />
+      <Category>m</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -295,7 +295,7 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>15</StartNr>
-      <Category />
+      <Category>m</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
