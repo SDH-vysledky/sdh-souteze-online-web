@@ -257,7 +257,7 @@
       <Try1>17800</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name>Sllušovice</Name>
+      <Name>Slušovice</Name>
       <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
@@ -383,8 +383,8 @@
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Mirošov B</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
@@ -400,12 +400,12 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>20</StartNr>
-      <Category />
+      <Category>m</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name />
-      <Team />
+      <Name>Nevšová C</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
         <int>0</int>
