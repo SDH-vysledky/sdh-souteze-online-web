@@ -2,7 +2,7 @@
 <Vysledky><DataRecordClass>
       <StartNr />
       <Category>AAA</Category>
-      <Try1>6380</Try1>
+      <Try1>-6380</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>asdd</Name>
@@ -17,7 +17,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-08-23T09:28:04.2400896+02:00</CreationDate>
-      <Order>1</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
