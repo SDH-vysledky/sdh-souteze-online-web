@@ -842,21 +842,21 @@
     <DataRecordClass>
       <StartNr>4</StartNr>
       <Category>ženy</Category>
-      <Try1>0</Try1>
+      <Try1>-52290</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Veselé</Name>
+      <Team>Zl</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>52290</int>
+        <int>25300</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2026-11-21T11:11:40.4686618+01:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
