@@ -2,27 +2,27 @@
 <Vysledky><DataRecordClass>
       <StartNr>1</StartNr>
       <Category>dorci</Category>
-      <Try1>0</Try1>
+      <Try1>18350</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Polichno</Name>
       <Team>Zl</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>16770</int>
+        <int>18350</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-11-21T10:12:37.3406328+01:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>2</StartNr>
+      <Category>dorci</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -42,8 +42,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>3</StartNr>
+      <Category>dorci</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -63,8 +63,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>4</StartNr>
+      <Category>dorci</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -84,8 +84,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>5</StartNr>
+      <Category>dorci</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
