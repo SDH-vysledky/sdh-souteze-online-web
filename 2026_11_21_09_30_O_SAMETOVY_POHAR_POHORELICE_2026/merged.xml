@@ -569,21 +569,21 @@
     <DataRecordClass>
       <StartNr>13</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>-22200</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Sazovice</Name>
+      <Team>Zl</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>19750</int>
+        <int>22200</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2026-11-21T13:14:13.2335191+01:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
