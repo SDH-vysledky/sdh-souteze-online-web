@@ -332,7 +332,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T10:17:45.8643281+01:00</CreationDate>
-      <Order>10</Order>
+      <Order>11</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -395,7 +395,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T10:42:20.9818631+01:00</CreationDate>
-      <Order>7</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -416,7 +416,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T10:46:53.6204372+01:00</CreationDate>
-      <Order>9</Order>
+      <Order>10</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -500,7 +500,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T11:34:49.8395701+01:00</CreationDate>
-      <Order>8</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -521,7 +521,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T12:08:18.6182536+01:00</CreationDate>
-      <Order>11</Order>
+      <Order>12</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -611,22 +611,22 @@
     <DataRecordClass>
       <StartNr>15</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>17840</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Návojná</Name>
       <Team>Zl</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>17060</int>
+        <int>17840</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-11-21T13:53:45.4341557+01:00</CreationDate>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
   <DataRecordClass>
