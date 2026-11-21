@@ -443,22 +443,22 @@
     <DataRecordClass>
       <StartNr>10</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>24360</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Pitín B</Name>
+      <Team>Uh</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>23860</int>
+        <int>24360</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-11-21T12:08:18.6182536+01:00</CreationDate>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -677,7 +677,7 @@
       <Try1>-46190</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name>Podhrsdní Lhota</Name>
+      <Name>Podhradní Lhota</Name>
       <Team>Km</Team>
       <Valid>false</Valid>
       <Times>
@@ -836,7 +836,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T11:00:39.9866468+01:00</CreationDate>
-      <Order>5</Order>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -845,7 +845,7 @@
       <Try1>-52290</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
-      <Name>Veselé</Name>
+      <Name>Veselá</Name>
       <Team>Zl</Team>
       <Valid>false</Valid>
       <Times>
@@ -941,28 +941,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T11:58:57.8113866+01:00</CreationDate>
-      <Order>6</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>9</StartNr>
       <Category>ženy</Category>
-      <Try1>0</Try1>
+      <Try1>21910</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Vizovice</Name>
+      <Team>Zl</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>21910</int>
+        <int>21440</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-11-21T12:03:26.7592142+01:00</CreationDate>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
