@@ -632,27 +632,27 @@
   <DataRecordClass>
       <StartNr>1</StartNr>
       <Category>muzi35</Category>
-      <Try1>0</Try1>
+      <Try1>15190</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Záhnašovice</Name>
       <Team>Km</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>15190</int>
+        <int>14700</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-11-21T10:55:58.387982+01:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr />
-      <Category />
+      <Category>muži35</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -673,7 +673,7 @@
     </DataRecordClass>
     <DataRecordClass>
       <StartNr />
-      <Category />
+      <Category>muži35</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
