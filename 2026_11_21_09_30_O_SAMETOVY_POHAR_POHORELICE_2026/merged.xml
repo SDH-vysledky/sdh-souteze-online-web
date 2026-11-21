@@ -65,21 +65,21 @@
     <DataRecordClass>
       <StartNr>4</StartNr>
       <Category>dorci</Category>
-      <Try1>0</Try1>
+      <Try1>-82250</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Lutonina</Name>
+      <Team>Zl</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>80290</int>
+        <int>82250</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
+      <CreationDate>2026-11-21T12:44:56.0901632+01:00</CreationDate>
       <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
