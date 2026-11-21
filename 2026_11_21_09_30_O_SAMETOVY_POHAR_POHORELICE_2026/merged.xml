@@ -794,7 +794,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T10:07:16.5465391+01:00</CreationDate>
-      <Order>2</Order>
+      <Order>3</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -815,7 +815,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T10:30:57.9436215+01:00</CreationDate>
-      <Order>1</Order>
+      <Order>2</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -836,7 +836,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T11:00:39.9866468+01:00</CreationDate>
-      <Order>4</Order>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -899,28 +899,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T11:39:25.0040956+01:00</CreationDate>
-      <Order>3</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>7</StartNr>
       <Category>ženy</Category>
-      <Try1>0</Try1>
+      <Try1>17940</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Hostětín</Name>
+      <Team>Uh</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>16740</int>
+        <int>17940</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-11-21T11:48:38.0513347+01:00</CreationDate>
+      <Order>1</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
