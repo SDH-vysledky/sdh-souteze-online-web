@@ -941,7 +941,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T11:00:39.9866468+01:00</CreationDate>
-      <Order>8</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1004,7 +1004,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T11:39:25.0040956+01:00</CreationDate>
-      <Order>5</Order>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1046,7 +1046,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T11:58:57.8113866+01:00</CreationDate>
-      <Order>10</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1067,7 +1067,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T12:03:26.7592142+01:00</CreationDate>
-      <Order>6</Order>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1088,7 +1088,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T12:24:22.7363502+01:00</CreationDate>
-      <Order>9</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -1130,13 +1130,13 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T13:18:34.7917259+01:00</CreationDate>
-      <Order>7</Order>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>13</StartNr>
       <Category>ženy</Category>
-      <Try1>19850</Try1>
+      <Try1>-19850</Try1>
       <Try2>0</Try2>
       <Line>Útok (1+2)</Line>
       <Name>Hrubá Vrbka</Name>
@@ -1151,7 +1151,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T13:33:54.3779581+01:00</CreationDate>
-      <Order>4</Order>
+      <Order>0</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
   </Vysledky>
