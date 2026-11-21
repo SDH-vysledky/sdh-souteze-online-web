@@ -269,7 +269,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T10:17:45.8643281+01:00</CreationDate>
-      <Order>7</Order>
+      <Order>8</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -332,7 +332,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T10:42:20.9818631+01:00</CreationDate>
-      <Order>4</Order>
+      <Order>5</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -353,7 +353,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T10:46:53.6204372+01:00</CreationDate>
-      <Order>6</Order>
+      <Order>7</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -437,7 +437,7 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T11:34:49.8395701+01:00</CreationDate>
-      <Order>5</Order>
+      <Order>6</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -458,28 +458,28 @@
       <Add1>0</Add1>
       <Add2>0</Add2>
       <CreationDate>2026-11-21T12:08:18.6182536+01:00</CreationDate>
-      <Order>8</Order>
+      <Order>9</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
       <StartNr>11</StartNr>
       <Category>muži</Category>
-      <Try1>0</Try1>
+      <Try1>15920</Try1>
       <Try2>0</Try2>
-      <Line />
-      <Name />
-      <Team />
+      <Line>Útok (1+2)</Line>
+      <Name>Mladcová</Name>
+      <Team>ZL</Team>
       <Valid>false</Valid>
       <Times>
-        <int>0</int>
-        <int>0</int>
+        <int>15920</int>
+        <int>15100</int>
         <int>0</int>
         <int>0</int>
       </Times>
       <Add1>0</Add1>
       <Add2>0</Add2>
-      <CreationDate>0001-01-01T00:00:00</CreationDate>
-      <Order>0</Order>
+      <CreationDate>2026-11-21T12:34:18.2269339+01:00</CreationDate>
+      <Order>4</Order>
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
@@ -504,8 +504,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>13</StartNr>
+      <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -525,8 +525,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>14</StartNr>
+      <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -546,8 +546,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>15</StartNr>
+      <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -567,8 +567,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>16</StartNr>
+      <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
@@ -588,8 +588,8 @@
       <TextFormat>mss100</TextFormat>
     </DataRecordClass>
     <DataRecordClass>
-      <StartNr />
-      <Category />
+      <StartNr>17</StartNr>
+      <Category>muži</Category>
       <Try1>0</Try1>
       <Try2>0</Try2>
       <Line />
